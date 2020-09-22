@@ -1,0 +1,24 @@
+Circuit: * C:\users\jerryl\Desktop\Mosfet\ip_at_LV_side.asc
+
+Limiting rise time of source v3 to 0.01
+Limiting fall time of source v3 to 0.01
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Sep 21 14:50:58 2019
+Total elapsed time: 0.064 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6702
+traniter = 6695
+tranpoints = 2147
+accept = 1863
+rejected = 284
+matrix size = 11
+fillins = 0
+solver = Normal
+Matrix Compiler1: 458 bytes object code size  0.4/0.3/[0.2]
+Matrix Compiler2: off  [0.3]/0.3/0.3
+
+
