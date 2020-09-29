@@ -1,4 +1,4 @@
-* Z:\home\jerryl\Git\Github_Public\Spice-Simulations\Opamp\Inverter\Inverter.asc
+* Z:\home\jerryl\Git\Github_Public\Spice-Simulations\Opamp\Inverting Amp\Inverting Amplifier.asc
 XU1 0 N001 N002 N004 Out level.2 Avol=1Meg GBW=10Meg Slew=10Meg ilimit=25m rail=0 Vos=0 phimargin=45 en=0 enk=0 in=0 ink=0 Rin=500Meg
 V§+Vcc N002 0 50
 V§-Vcc N004 0 -50
