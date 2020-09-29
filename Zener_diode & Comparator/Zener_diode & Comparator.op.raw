@@ -1,5 +1,5 @@
-Title: * C:\users\jerryl\Desktop\simulationsinltspice\Zener_diode & Comparator\Zener_diode & Comparator.asc
-Date: Tue Sep 22 19:55:32 2020
+Title: * Z:\home\jerryl\Git\Github_Public\Spice-Simulations\Zener_diode & Comparator\Zener_diode & Comparator.asc
+Date: Tue Sep 29 13:47:14 2020
 Plotname: Operating Point
 Flags: real
 No. Variables: 25
@@ -889,13 +889,13 @@ Backannotation: i23:i10:i22 1 2 3
 Backannotation: u1 1 2 3 4 5
 Backannotation: u2 1 2 3 4 5
 Variables:
-	0	V(n004)	voltage
+	0	V(vz)	voltage
 	1	V(n002)	voltage
 	2	V(n001)	voltage
-	3	V(n005)	voltage
-	4	V(n003)	voltage
-	5	V(n006)	voltage
-	6	V(n007)	voltage
+	3	V(vout1)	voltage
+	4	V(vref1)	voltage
+	5	V(vout2)	voltage
+	6	V(vref2)	voltage
 	7	I(D1)	device_current
 	8	I(R5)	device_current
 	9	I(R4)	device_current

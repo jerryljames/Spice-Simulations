@@ -1,9 +1,5 @@
-Questionable use of curly braces in "xu2 n002 n002 nc_01 n002 n003 n003 n005 0 0 nc_02 0 0 0 nc_03 n004 n006 n007 tps55340_trans ss={ss}"
-    Error: undefined symbol in: "[ss]"
-Circuit: * C:\users\jerryl\Desktop\TPS55340_bare\TPS55340.asc
+Circuit: * Z:\home\jerryl\Git\Github_Public\Spice-Simulations\TPS55340\TPS55340.asc
 
-WARNING: Can't resolve .param ss=(ss)
-WARNING: Can't resolve .param ss=ss
 Questionable use of curly braces in "b§g_erroramp_abm2i1 0 comp i={limit((v(erroramp_n16939349)-v(fb))*360u,-42u,42u)} "
     Error: undefined symbol in: "limit(([v](erroramp_n16939349)-v(fb))*360u,-42u,42u)"
 Questionable use of curly braces in "b§e_u1_abm173 u1_en_nofilt 0 v={if(v(en)>1.08,1,0)} "
@@ -14,10 +10,6 @@ Questionable use of curly braces in "b§e_u6_abm152 u6_iswf 0 v={if(v(u6_n1662160
     Error: undefined symbol in: "if([v](u6_n16621608)>0.5,v(isw)+1.04,1.04)"
 Questionable use of curly braces in "b§g_u4_abmi6 u4_n16500284 ss i={if(v(sdwn)>0,0,6e-6)} "
     Error: undefined symbol in: "if([v](sdwn)>0,0,6e-6)"
-Questionable use of curly braces in ".ic v(ss )={{ss}*1.8}"
-    Error: yet unevaluated parameter in: "([ss)]*1.8"
-Questionable use of curly braces in ".ic v(ss )=({ss}*1.8)"
-    Error: yet unevaluated parameter in: "[ss]"
 Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}}&v(b)>{{vthresh}},{{vdd}},{{vss}})}"
     Error: undefined symbol in: "if([v](a)>((vthresh))&v(b)>((vthresh)),((vdd)),((vss)))"
 Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}},{{vss}},{{vdd}})}"
@@ -64,4 +56,34 @@ Questionable use of curly braces in "b§e_abmgate1 yint1 0 v={if(v(a)>{{vthresh}}
     Error: undefined symbol in: "if([v](a)>((vthresh)),((vdd)),((vss)))"
 Questionable use of curly braces in "b§e_abmgate2 yint3 0 v={if(v(yint2)>{{vthresh}},{{vdd}},{{vss}})}"
     Error: undefined symbol in: "if([v](yint2)>((vthresh)),((vdd)),((vss)))"
-Fatal Error: Trouble parsing initial condition voltage for V(n005)
+WARNING: Less than two connections to node NC_03.  This node is used by R:U2:_R7.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u2:pwpd)
+Ignoring empty pin current: Ix(u2:vin)
+Ignoring empty pin current: Ix(u2:sync)
+Ignoring empty pin current: Ix(u2:pgnd_2)
+Ignoring empty pin current: Ix(u2:pwpd)
+Ignoring empty pin current: Ix(u2:vin)
+Ignoring empty pin current: Ix(u2:sync)
+Ignoring empty pin current: Ix(u2:pgnd_2)
+Heightened Def Con from 4.74673e-006 to 4.74673e-006
+
+Date: Tue Sep 29 12:45:00 2020
+Total elapsed time: 44.583 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1733195
+traniter = 1733154
+tranpoints = 407826
+accept = 305853
+rejected = 101974
+matrix size = 203
+fillins = 132
+solver = Normal
+Thread vector: 35.4/16.4[5] 9.5/4.1[5] 12.8/4.5[5] 1.0/1.7[1]  2592/500
+Matrix Compiler1: 9.97 KB object code size  4.6/2.8/[1.5]
+Matrix Compiler2: 14.8 KB object code size  2.7/5.1/[2.2]
+
+

@@ -1,0 +1,8 @@
+2
+keyed
+<Name><State><Vault><Branch><Version><DateFetched><Log><Conflict><StickyTag><MergedFrom>
+#%@ DEFINE PATH "\ELAB_MODEL_DS\Part_Numbers\TPS55340\Source_TI\PSPICE\TPS55340_PSPICE_TRANS\.SYNC" %#
+#%@ DEFINE ROOTUID "8efaf3d8feab14bd0ae3517cb6df1d0c" %#
+<TPS55340_TRANS.lib><F><sync://sync24324.design.ti.com:24324/Projects/ELAB_MODEL_DS/Part_Numbers/TPS55340/Source_TI/PSPICE/TPS55340_PSPICE_TRANS/TPS55340_TRANS.lib;><1><1.4><1563421208><><F><><><Checksum=46935d8a4e541d60bc2e9bd60204810b><Size=23544><mode=33060><vctime=1391108647>
+
+

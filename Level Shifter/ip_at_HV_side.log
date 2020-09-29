@@ -1,0 +1,24 @@
+Circuit: * Z:\home\jerryl\Git\Github_Public\Spice-Simulations\Level Shifter\ip_at_HV_side.asc
+
+Limiting rise time of source v3 to 0.01
+Limiting fall time of source v3 to 0.01
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Sep 29 11:48:15 2020
+Total elapsed time: 0.068 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 9190
+traniter = 9183
+tranpoints = 3003
+accept = 2316
+rejected = 687
+matrix size = 11
+fillins = 0
+solver = Normal
+Matrix Compiler1: 476 bytes object code size  2.2/0.2/[0.2]
+Matrix Compiler2: off  [0.2]/0.3/0.3
+
+
