@@ -1,0 +1,30 @@
+Circuit: * Z:\home\jerryl\Git\Github_Public\Spice-Simulations\Decoder\Decoder.asc
+
+WARNING: Less than two connections to node OUT2.  This node is used by A3.
+WARNING: Less than two connections to node OUT3.  This node is used by A4.
+WARNING: Less than two connections to node OUT4.  This node is used by A5.
+WARNING: Less than two connections to node OUT5.  This node is used by A6.
+WARNING: Less than two connections to node OUT6.  This node is used by A7.
+WARNING: Less than two connections to node OUT1.  This node is used by A2.
+WARNING: Less than two connections to node OUT7.  This node is used by A8.
+WARNING: Less than two connections to node OUT0.  This node is used by A1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Sep 29 15:49:47 2020
+Total elapsed time: 0.040 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2850
+traniter = 2846
+tranpoints = 1396
+accept = 1331
+rejected = 65
+matrix size = 17
+fillins = 0
+solver = Normal
+Matrix Compiler1: 282 bytes object code size  0.3/0.3/[0.3]
+Matrix Compiler2: 709 bytes object code size  0.4/0.4/[0.3]
+
+
