@@ -1,0 +1,15 @@
+* Z:\home\jerryl\Git\Github_Public\Spice-Simulations\Current Mirror\Current Mirror Transient Analysis\Transient_Analysis.asc
+M1 N002 N001 VSS N003 NMOS l=5 w=15
+M2 N001 N001 VSS N004 NMOS l=5 w=15
+V1 VDD 0 2.5V
+V2 0 VSS 2.5V
+V3 N002 0 PULSE(0 2.5 1n 1n 1n 100n 200n 3)
+R1 VDD N001 380K
+C1 N002 N001 100f
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Program Files\LTC\LTspiceIV\lib\cmp\standard.mos
+.MODEL NMOS NMOS(VT0=0.83 LAMBDA=0.06 KP=50U)
+.tran 600ns
+.backanno
+.end
