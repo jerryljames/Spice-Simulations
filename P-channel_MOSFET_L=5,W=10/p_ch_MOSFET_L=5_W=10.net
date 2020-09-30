@@ -1,0 +1,11 @@
+* Z:\home\jerryl\Git\Github_Public\Spice-Simulations\P-channel_MOSFET_L=5,W=10\p_ch_MOSFET_L=5_W=10.asc
+M1 N001 N002 0 0 PMOS l=5um w=10um
+V1 N002 0 -1V
+V2 N001 0 -5V
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Program Files\LTC\LTspiceIV\lib\cmp\standard.mos
+.MODEL PMOS PMOS(VT0=0.91 LAMBDA=0.06 KP=17U)
+.dc V2 0 -5 0.001 V1 0 -4 -1
+.backanno
+.end
