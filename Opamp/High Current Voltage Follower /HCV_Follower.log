@@ -1,0 +1,78 @@
+Circuit: * Z:\home\jerryl\Git\Github_Public\Spice-Simulations\Opamp\High Current Voltage Follower \HCV_Follower.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.995033
+vernier = 0.0833333
+Gmin = 0.826371
+vernier = 0.111111
+vernier = 0.148148
+Gmin = 0.606181
+vernier = 0.197531
+vernier = 0.263374
+Gmin = 0.371556
+vernier = 0.351165
+Gmin = 0.173771
+vernier = 0.46822
+vernier = 0.624294
+Gmin = 0.0500711
+vernier = 0.832392
+vernier = 1
+Gmin = 0.00771229
+Gmin = 0.000828101
+Gmin = 8.89167e-005
+Gmin = 9.54735e-006
+Gmin = 1.02514e-006
+Gmin = 1.10074e-007
+Gmin = 1.18191e-008
+Gmin = 1.26906e-009
+vernier = 0.5
+Gmin = 2.62856e-010
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 2.7402e-010
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 2.74817e-010
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 2.74516e-010
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Wed Sep 30 23:51:10 2020
+Total elapsed time: 0.176 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3760
+traniter = 781
+tranpoints = 391
+accept = 264
+rejected = 127
+matrix size = 18
+fillins = 12
+solver = Normal
+Matrix Compiler1: 1.50 KB object code size  0.6/0.3/[0.3]
+Matrix Compiler2: off  [0.5]/0.5/0.6
+
+

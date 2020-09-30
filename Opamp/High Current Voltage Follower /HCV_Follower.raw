@@ -1,0 +1,948 @@
+Title: * Z:\home\jerryl\Git\Github_Public\Spice-Simulations\Opamp\High Current Voltage Follower \HCV_Follower.asc
+Date: Wed Sep 30 23:51:10 2020
+Plotname: Transient Analysis
+Flags: real forward
+No. Variables: 18
+No. Points:          249
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Backannotation: i21 1 4 8 2
+Backannotation: i24 1 4 8 2
+Backannotation: i23 1 4 8 2
+Backannotation: i22 1 4 8 2
+Backannotation: i20 1 2 3 4 8 5
+Backannotation: i18 1 2 3 4 8 5
+Backannotation: i19 1 2 3 4 8 5
+Backannotation: i17 1 2 4 8 3
+Backannotation: i16 1 2 4 8 3
+Backannotation: i15 1 2 4 8 3
+Backannotation: i14 1 2 4 8 3
+Backannotation: i13 1 2 4 8 3
+Backannotation: i53 1 2 11 12 25
+Backannotation: i54b 1 2 11 12 25
+Backannotation: i91 1 2 3
+Backannotation: i90 1 2 3
+Backannotation: i89 1 2 3
+Backannotation: i21:sn 1 2 3
+Backannotation: i21:sp 1 2 3
+Backannotation: i24:sn 1 2 3
+Backannotation: i24:sp 1 2 3
+Backannotation: i23:sn 1 2 3
+Backannotation: i23:sp 1 2 3
+Backannotation: i22:sn 1 2 3
+Backannotation: i22:sp 1 2 3
+Backannotation: i20:i6 1 2 3
+Backannotation: i20:i5 1 2 3
+Backannotation: i20:i4 1 2 3
+Backannotation: i20:i3 1 2 3
+Backannotation: i20:i2 1 2 3
+Backannotation: i20:i1 1 2 3
+Backannotation: i18:i6 1 2 3
+Backannotation: i18:i5 1 2 3
+Backannotation: i18:i4 1 2 3
+Backannotation: i18:i3 1 2 3
+Backannotation: i18:i2 1 2 3
+Backannotation: i18:i1 1 2 3
+Backannotation: i19:i6 1 2 3
+Backannotation: i19:i5 1 2 3
+Backannotation: i19:i4 1 2 3
+Backannotation: i19:i3 1 2 3
+Backannotation: i19:i2 1 2 3
+Backannotation: i19:i1 1 2 3
+Backannotation: i17:i4 1 2 3
+Backannotation: i17:i3 1 2 3
+Backannotation: i17:i2 1 2 3
+Backannotation: i17:i1 1 2 3
+Backannotation: i16:i4 1 2 3
+Backannotation: i16:i3 1 2 3
+Backannotation: i16:i2 1 2 3
+Backannotation: i16:i1 1 2 3
+Backannotation: i15:i4 1 2 3
+Backannotation: i15:i3 1 2 3
+Backannotation: i15:i2 1 2 3
+Backannotation: i15:i1 1 2 3
+Backannotation: i14:i4 1 2 3
+Backannotation: i14:i3 1 2 3
+Backannotation: i14:i2 1 2 3
+Backannotation: i14:i1 1 2 3
+Backannotation: i13:i4 1 2 3
+Backannotation: i13:i3 1 2 3
+Backannotation: i13:i2 1 2 3
+Backannotation: i13:i1 1 2 3
+Backannotation: i24 1 4 8 2
+Backannotation: i23 1 4 8 2
+Backannotation: i21 1 4 8 2
+Backannotation: i22 1 4 8 2
+Backannotation: i20 1 2 3 4 8 5
+Backannotation: i52 1 2 4 8 3
+Backannotation: i63 1 2 4 8 3
+Backannotation: i64 1 2 11 12 25
+Backannotation: i67 1 2 3
+Backannotation: i66 1 2 3
+Backannotation: i65 1 2 3
+Backannotation: i24:sn 1 2 3
+Backannotation: i24:sp 1 2 3
+Backannotation: i23:sn 1 2 3
+Backannotation: i23:sp 1 2 3
+Backannotation: i21:sn 1 2 3
+Backannotation: i21:sp 1 2 3
+Backannotation: i22:sn 1 2 3
+Backannotation: i22:sp 1 2 3
+Backannotation: i20:i6 1 2 3
+Backannotation: i20:i5 1 2 3
+Backannotation: i20:i4 1 2 3
+Backannotation: i20:i3 1 2 3
+Backannotation: i20:i2 1 2 3
+Backannotation: i20:i1 1 2 3
+Backannotation: i52:i4 1 2 3
+Backannotation: i52:i3 1 2 3
+Backannotation: i52:i2 1 2 3
+Backannotation: i52:i1 1 2 3
+Backannotation: i63:i4 1 2 3
+Backannotation: i63:i3 1 2 3
+Backannotation: i63:i2 1 2 3
+Backannotation: i63:i1 1 2 3
+Backannotation: i21 1 4 8 2
+Backannotation: i24 1 4 8 2
+Backannotation: i23 1 4 8 2
+Backannotation: i22 1 4 8 2
+Backannotation: i18 1 2 3 4 8 5
+Backannotation: i19 1 2 3 4 8 5
+Backannotation: i20 1 2 3 4 8 5
+Backannotation: i17 1 2 4 8 3
+Backannotation: i16 1 2 4 8 3
+Backannotation: i15 1 2 4 8 3
+Backannotation: i14 1 2 4 8 3
+Backannotation: i13 1 2 4 8 3
+Backannotation: i64 1 2 11 12 25
+Backannotation: i67 1 2 3
+Backannotation: i66 1 2 3
+Backannotation: i65 1 2 3
+Backannotation: i21:sn 1 2 3
+Backannotation: i21:sp 1 2 3
+Backannotation: i24:sn 1 2 3
+Backannotation: i24:sp 1 2 3
+Backannotation: i23:sn 1 2 3
+Backannotation: i23:sp 1 2 3
+Backannotation: i22:sn 1 2 3
+Backannotation: i22:sp 1 2 3
+Backannotation: i18:i6 1 2 3
+Backannotation: i18:i5 1 2 3
+Backannotation: i18:i4 1 2 3
+Backannotation: i18:i3 1 2 3
+Backannotation: i18:i2 1 2 3
+Backannotation: i18:i1 1 2 3
+Backannotation: i19:i6 1 2 3
+Backannotation: i19:i5 1 2 3
+Backannotation: i19:i4 1 2 3
+Backannotation: i19:i3 1 2 3
+Backannotation: i19:i2 1 2 3
+Backannotation: i19:i1 1 2 3
+Backannotation: i20:i6 1 2 3
+Backannotation: i20:i5 1 2 3
+Backannotation: i20:i4 1 2 3
+Backannotation: i20:i3 1 2 3
+Backannotation: i20:i2 1 2 3
+Backannotation: i20:i1 1 2 3
+Backannotation: i17:i4 1 2 3
+Backannotation: i17:i3 1 2 3
+Backannotation: i17:i2 1 2 3
+Backannotation: i17:i1 1 2 3
+Backannotation: i16:i4 1 2 3
+Backannotation: i16:i3 1 2 3
+Backannotation: i16:i2 1 2 3
+Backannotation: i16:i1 1 2 3
+Backannotation: i15:i4 1 2 3
+Backannotation: i15:i3 1 2 3
+Backannotation: i15:i2 1 2 3
+Backannotation: i15:i1 1 2 3
+Backannotation: i14:i4 1 2 3
+Backannotation: i14:i3 1 2 3
+Backannotation: i14:i2 1 2 3
+Backannotation: i14:i1 1 2 3
+Backannotation: i13:i4 1 2 3
+Backannotation: i13:i3 1 2 3
+Backannotation: i13:i2 1 2 3
+Backannotation: i13:i1 1 2 3
+Backannotation: i21 1 4 8 2
+Backannotation: i22 1 4 8 2
+Backannotation: i23 1 4 8 2
+Backannotation: i24 1 4 8 2
+Backannotation: i18 1 2 3 4 8 5
+Backannotation: i19 1 2 3 4 8 5
+Backannotation: i20 1 2 3 4 8 5
+Backannotation: i17 1 2 4 8 3
+Backannotation: i16 1 2 4 8 3
+Backannotation: i15 1 2 4 8 3
+Backannotation: i14 1 2 4 8 3
+Backannotation: i13 1 2 4 8 3
+Backannotation: i53 1 2 11 12 25
+Backannotation: i76 1 2 3
+Backannotation: i75 1 2 3
+Backannotation: i74 1 2 3
+Backannotation: i21:sn 1 2 3
+Backannotation: i21:sp 1 2 3
+Backannotation: i22:sn 1 2 3
+Backannotation: i22:sp 1 2 3
+Backannotation: i23:sn 1 2 3
+Backannotation: i23:sp 1 2 3
+Backannotation: i24:sn 1 2 3
+Backannotation: i24:sp 1 2 3
+Backannotation: i18:i6 1 2 3
+Backannotation: i18:i5 1 2 3
+Backannotation: i18:i4 1 2 3
+Backannotation: i18:i3 1 2 3
+Backannotation: i18:i2 1 2 3
+Backannotation: i18:i1 1 2 3
+Backannotation: i19:i6 1 2 3
+Backannotation: i19:i5 1 2 3
+Backannotation: i19:i4 1 2 3
+Backannotation: i19:i3 1 2 3
+Backannotation: i19:i2 1 2 3
+Backannotation: i19:i1 1 2 3
+Backannotation: i20:i6 1 2 3
+Backannotation: i20:i5 1 2 3
+Backannotation: i20:i4 1 2 3
+Backannotation: i20:i3 1 2 3
+Backannotation: i20:i2 1 2 3
+Backannotation: i20:i1 1 2 3
+Backannotation: i17:i4 1 2 3
+Backannotation: i17:i3 1 2 3
+Backannotation: i17:i2 1 2 3
+Backannotation: i17:i1 1 2 3
+Backannotation: i16:i4 1 2 3
+Backannotation: i16:i3 1 2 3
+Backannotation: i16:i2 1 2 3
+Backannotation: i16:i1 1 2 3
+Backannotation: i15:i4 1 2 3
+Backannotation: i15:i3 1 2 3
+Backannotation: i15:i2 1 2 3
+Backannotation: i15:i1 1 2 3
+Backannotation: i14:i4 1 2 3
+Backannotation: i14:i3 1 2 3
+Backannotation: i14:i2 1 2 3
+Backannotation: i14:i1 1 2 3
+Backannotation: i13:i4 1 2 3
+Backannotation: i13:i3 1 2 3
+Backannotation: i13:i2 1 2 3
+Backannotation: i13:i1 1 2 3
+Backannotation: i26 1 2 11 12 25 100 9
+Backannotation: i25 1 2 11 12 25 100 9
+Backannotation: i24 1 2 11 12 25 100 9
+Backannotation: i23 1 2 11 12 25 100 9
+Backannotation: s2 1 2 3
+Backannotation: s1 1 2 3
+Backannotation: i26:sw1 1 2 3
+Backannotation: i26:sw2 1 2 3
+Backannotation: i26:sw3 1 2 3
+Backannotation: i26:sw4 1 2 3
+Backannotation: i26:sw5 1 2 3
+Backannotation: i26:sw6 1 2 3
+Backannotation: i26:sw7 1 2 3
+Backannotation: i26:sw8 1 2 3
+Backannotation: i26:sw9 1 2 3
+Backannotation: i26:sw10 1 2 3
+Backannotation: i26:s11 1 2 3
+Backannotation: i26:s12 1 2 3
+Backannotation: i26:i10 9 100 11 12 3a
+Backannotation: i26:i8 1 2 3
+Backannotation: i26:i9 1 2 3
+Backannotation: i26:sw11 1 2 3
+Backannotation: i26:sw12 1 2 3
+Backannotation: i26:sw13 1 2 3
+Backannotation: i26:sw14 1 2 3
+Backannotation: i26:sw15 1 2 3
+Backannotation: i26:sw16 1 2 3
+Backannotation: i26:sw17 1 2 3
+Backannotation: i26:sw18 1 2 3
+Backannotation: i26:sw19 1 2 3
+Backannotation: i26:sw20 1 2 3
+Backannotation: i26:s21 1 2 3
+Backannotation: i26:s22 1 2 3
+Backannotation: i26:sw21 1 2 3
+Backannotation: i26:sw22 1 2 3
+Backannotation: i26:sw23 1 2 3
+Backannotation: i26:sw24 1 2 3
+Backannotation: i26:sw25 1 2 3
+Backannotation: i26:sw26 1 2 3
+Backannotation: i26:sw27 1 2 3
+Backannotation: i26:sw28 1 2 3
+Backannotation: i26:s29 1 2 3
+Backannotation: i26:s30 1 2 3
+Backannotation: i26:s31 1 2 3
+Backannotation: i26:s32 1 2 3
+Backannotation: i26:s33 1 2 3
+Backannotation: i26:s34 1 2 3
+Backannotation: i26:s35 1 2 3
+Backannotation: i26:s36 1 2 3
+Backannotation: i26:sw29 1 2 3
+Backannotation: i26:sw30 1 2 3
+Backannotation: i26:sw31 1 2 3
+Backannotation: i26:sw32 1 2 3
+Backannotation: i26:sw33 1 2 3
+Backannotation: i26:sw34 1 2 3
+Backannotation: i26:sw35 1 2 3
+Backannotation: i26:sw36 1 2 3
+Backannotation: i26:sw37 1 2 3
+Backannotation: i26:sw38 1 2 3
+Backannotation: i26:sw39 1 2 3
+Backannotation: i26:sw40 1 2 3
+Backannotation: i26:sw41 1 2 3
+Backannotation: i26:sw42 1 2 3
+Backannotation: i26:sw43 1 2 3
+Backannotation: i26:sw44 1 2 3
+Backannotation: i26:sw45 1 2 3
+Backannotation: i26:sw46 1 2 3
+Backannotation: i26:s47 1 2 3
+Backannotation: i26:s48 1 2 3
+Backannotation: i26:sw47 1 2 3
+Backannotation: i26:sw48 1 2 3
+Backannotation: i26:sw49 1 2 3
+Backannotation: i26:sw50 1 2 3
+Backannotation: i26:sw51 1 2 3
+Backannotation: i26:sw52 1 2 3
+Backannotation: i26:sw53 1 2 3
+Backannotation: i26:sw54 1 2 3
+Backannotation: i26:s55 1 2 3
+Backannotation: i26:s56 1 2 3
+Backannotation: i26:s57 1 2 3
+Backannotation: i26:s58 1 2 3
+Backannotation: i25:sw1 1 2 3
+Backannotation: i25:sw2 1 2 3
+Backannotation: i25:sw3 1 2 3
+Backannotation: i25:sw4 1 2 3
+Backannotation: i25:sw5 1 2 3
+Backannotation: i25:sw6 1 2 3
+Backannotation: i25:sw7 1 2 3
+Backannotation: i25:sw8 1 2 3
+Backannotation: i25:sw9 1 2 3
+Backannotation: i25:sw10 1 2 3
+Backannotation: i25:s11 1 2 3
+Backannotation: i25:s12 1 2 3
+Backannotation: i25:i10 9 100 11 12 3a
+Backannotation: i25:i8 1 2 3
+Backannotation: i25:i9 1 2 3
+Backannotation: i25:sw11 1 2 3
+Backannotation: i25:sw12 1 2 3
+Backannotation: i25:sw13 1 2 3
+Backannotation: i25:sw14 1 2 3
+Backannotation: i25:sw15 1 2 3
+Backannotation: i25:sw16 1 2 3
+Backannotation: i25:sw17 1 2 3
+Backannotation: i25:sw18 1 2 3
+Backannotation: i25:sw19 1 2 3
+Backannotation: i25:sw20 1 2 3
+Backannotation: i25:s21 1 2 3
+Backannotation: i25:s22 1 2 3
+Backannotation: i25:sw21 1 2 3
+Backannotation: i25:sw22 1 2 3
+Backannotation: i25:sw23 1 2 3
+Backannotation: i25:sw24 1 2 3
+Backannotation: i25:sw25 1 2 3
+Backannotation: i25:sw26 1 2 3
+Backannotation: i25:sw27 1 2 3
+Backannotation: i25:sw28 1 2 3
+Backannotation: i25:s29 1 2 3
+Backannotation: i25:s30 1 2 3
+Backannotation: i25:s31 1 2 3
+Backannotation: i25:s32 1 2 3
+Backannotation: i25:s33 1 2 3
+Backannotation: i25:s34 1 2 3
+Backannotation: i25:s35 1 2 3
+Backannotation: i25:s36 1 2 3
+Backannotation: i25:sw29 1 2 3
+Backannotation: i25:sw30 1 2 3
+Backannotation: i25:sw31 1 2 3
+Backannotation: i25:sw32 1 2 3
+Backannotation: i25:sw33 1 2 3
+Backannotation: i25:sw34 1 2 3
+Backannotation: i25:sw35 1 2 3
+Backannotation: i25:sw36 1 2 3
+Backannotation: i25:sw37 1 2 3
+Backannotation: i25:sw38 1 2 3
+Backannotation: i25:sw39 1 2 3
+Backannotation: i25:sw40 1 2 3
+Backannotation: i25:sw41 1 2 3
+Backannotation: i25:sw42 1 2 3
+Backannotation: i25:sw43 1 2 3
+Backannotation: i25:sw44 1 2 3
+Backannotation: i25:sw45 1 2 3
+Backannotation: i25:sw46 1 2 3
+Backannotation: i25:s47 1 2 3
+Backannotation: i25:s48 1 2 3
+Backannotation: i25:sw47 1 2 3
+Backannotation: i25:sw48 1 2 3
+Backannotation: i25:sw49 1 2 3
+Backannotation: i25:sw50 1 2 3
+Backannotation: i25:sw51 1 2 3
+Backannotation: i25:sw52 1 2 3
+Backannotation: i25:sw53 1 2 3
+Backannotation: i25:sw54 1 2 3
+Backannotation: i25:s55 1 2 3
+Backannotation: i25:s56 1 2 3
+Backannotation: i25:s57 1 2 3
+Backannotation: i25:s58 1 2 3
+Backannotation: i24:sw1 1 2 3
+Backannotation: i24:sw2 1 2 3
+Backannotation: i24:sw3 1 2 3
+Backannotation: i24:sw4 1 2 3
+Backannotation: i24:sw5 1 2 3
+Backannotation: i24:sw6 1 2 3
+Backannotation: i24:sw7 1 2 3
+Backannotation: i24:sw8 1 2 3
+Backannotation: i24:sw9 1 2 3
+Backannotation: i24:sw10 1 2 3
+Backannotation: i24:s11 1 2 3
+Backannotation: i24:s12 1 2 3
+Backannotation: i24:i10 9 100 11 12 3a
+Backannotation: i24:i8 1 2 3
+Backannotation: i24:i9 1 2 3
+Backannotation: i24:sw11 1 2 3
+Backannotation: i24:sw12 1 2 3
+Backannotation: i24:sw13 1 2 3
+Backannotation: i24:sw14 1 2 3
+Backannotation: i24:sw15 1 2 3
+Backannotation: i24:sw16 1 2 3
+Backannotation: i24:sw17 1 2 3
+Backannotation: i24:sw18 1 2 3
+Backannotation: i24:sw19 1 2 3
+Backannotation: i24:sw20 1 2 3
+Backannotation: i24:s21 1 2 3
+Backannotation: i24:s22 1 2 3
+Backannotation: i24:sw21 1 2 3
+Backannotation: i24:sw22 1 2 3
+Backannotation: i24:sw23 1 2 3
+Backannotation: i24:sw24 1 2 3
+Backannotation: i24:sw25 1 2 3
+Backannotation: i24:sw26 1 2 3
+Backannotation: i24:sw27 1 2 3
+Backannotation: i24:sw28 1 2 3
+Backannotation: i24:s29 1 2 3
+Backannotation: i24:s30 1 2 3
+Backannotation: i24:s31 1 2 3
+Backannotation: i24:s32 1 2 3
+Backannotation: i24:s33 1 2 3
+Backannotation: i24:s34 1 2 3
+Backannotation: i24:s35 1 2 3
+Backannotation: i24:s36 1 2 3
+Backannotation: i24:sw29 1 2 3
+Backannotation: i24:sw30 1 2 3
+Backannotation: i24:sw31 1 2 3
+Backannotation: i24:sw32 1 2 3
+Backannotation: i24:sw33 1 2 3
+Backannotation: i24:sw34 1 2 3
+Backannotation: i24:sw35 1 2 3
+Backannotation: i24:sw36 1 2 3
+Backannotation: i24:sw37 1 2 3
+Backannotation: i24:sw38 1 2 3
+Backannotation: i24:sw39 1 2 3
+Backannotation: i24:sw40 1 2 3
+Backannotation: i24:sw41 1 2 3
+Backannotation: i24:sw42 1 2 3
+Backannotation: i24:sw43 1 2 3
+Backannotation: i24:sw44 1 2 3
+Backannotation: i24:sw45 1 2 3
+Backannotation: i24:sw46 1 2 3
+Backannotation: i24:s47 1 2 3
+Backannotation: i24:s48 1 2 3
+Backannotation: i24:sw47 1 2 3
+Backannotation: i24:sw48 1 2 3
+Backannotation: i24:sw49 1 2 3
+Backannotation: i24:sw50 1 2 3
+Backannotation: i24:sw51 1 2 3
+Backannotation: i24:sw52 1 2 3
+Backannotation: i24:sw53 1 2 3
+Backannotation: i24:sw54 1 2 3
+Backannotation: i24:s55 1 2 3
+Backannotation: i24:s56 1 2 3
+Backannotation: i24:s57 1 2 3
+Backannotation: i24:s58 1 2 3
+Backannotation: i23:sw1 1 2 3
+Backannotation: i23:sw2 1 2 3
+Backannotation: i23:sw3 1 2 3
+Backannotation: i23:sw4 1 2 3
+Backannotation: i23:sw5 1 2 3
+Backannotation: i23:sw6 1 2 3
+Backannotation: i23:sw7 1 2 3
+Backannotation: i23:sw8 1 2 3
+Backannotation: i23:sw9 1 2 3
+Backannotation: i23:sw10 1 2 3
+Backannotation: i23:s11 1 2 3
+Backannotation: i23:s12 1 2 3
+Backannotation: i23:i10 9 100 11 12 3a
+Backannotation: i23:i8 1 2 3
+Backannotation: i23:i9 1 2 3
+Backannotation: i23:sw11 1 2 3
+Backannotation: i23:sw12 1 2 3
+Backannotation: i23:sw13 1 2 3
+Backannotation: i23:sw14 1 2 3
+Backannotation: i23:sw15 1 2 3
+Backannotation: i23:sw16 1 2 3
+Backannotation: i23:sw17 1 2 3
+Backannotation: i23:sw18 1 2 3
+Backannotation: i23:sw19 1 2 3
+Backannotation: i23:sw20 1 2 3
+Backannotation: i23:s21 1 2 3
+Backannotation: i23:s22 1 2 3
+Backannotation: i23:sw21 1 2 3
+Backannotation: i23:sw22 1 2 3
+Backannotation: i23:sw23 1 2 3
+Backannotation: i23:sw24 1 2 3
+Backannotation: i23:sw25 1 2 3
+Backannotation: i23:sw26 1 2 3
+Backannotation: i23:sw27 1 2 3
+Backannotation: i23:sw28 1 2 3
+Backannotation: i23:s29 1 2 3
+Backannotation: i23:s30 1 2 3
+Backannotation: i23:s31 1 2 3
+Backannotation: i23:s32 1 2 3
+Backannotation: i23:s33 1 2 3
+Backannotation: i23:s34 1 2 3
+Backannotation: i23:s35 1 2 3
+Backannotation: i23:s36 1 2 3
+Backannotation: i23:sw29 1 2 3
+Backannotation: i23:sw30 1 2 3
+Backannotation: i23:sw31 1 2 3
+Backannotation: i23:sw32 1 2 3
+Backannotation: i23:sw33 1 2 3
+Backannotation: i23:sw34 1 2 3
+Backannotation: i23:sw35 1 2 3
+Backannotation: i23:sw36 1 2 3
+Backannotation: i23:sw37 1 2 3
+Backannotation: i23:sw38 1 2 3
+Backannotation: i23:sw39 1 2 3
+Backannotation: i23:sw40 1 2 3
+Backannotation: i23:sw41 1 2 3
+Backannotation: i23:sw42 1 2 3
+Backannotation: i23:sw43 1 2 3
+Backannotation: i23:sw44 1 2 3
+Backannotation: i23:sw45 1 2 3
+Backannotation: i23:sw46 1 2 3
+Backannotation: i23:s47 1 2 3
+Backannotation: i23:s48 1 2 3
+Backannotation: i23:sw47 1 2 3
+Backannotation: i23:sw48 1 2 3
+Backannotation: i23:sw49 1 2 3
+Backannotation: i23:sw50 1 2 3
+Backannotation: i23:sw51 1 2 3
+Backannotation: i23:sw52 1 2 3
+Backannotation: i23:sw53 1 2 3
+Backannotation: i23:sw54 1 2 3
+Backannotation: i23:s55 1 2 3
+Backannotation: i23:s56 1 2 3
+Backannotation: i23:s57 1 2 3
+Backannotation: i23:s58 1 2 3
+Backannotation: i26:i10:i25 1 2 3
+Backannotation: i26:i10:i27 1 2 3
+Backannotation: i26:i10:i26 1 2 3
+Backannotation: i26:i10:i24 1 2 3
+Backannotation: i26:i10:i23 1 2 3
+Backannotation: i26:i10:i22 1 2 3
+Backannotation: i25:i10:i25 1 2 3
+Backannotation: i25:i10:i27 1 2 3
+Backannotation: i25:i10:i26 1 2 3
+Backannotation: i25:i10:i24 1 2 3
+Backannotation: i25:i10:i23 1 2 3
+Backannotation: i25:i10:i22 1 2 3
+Backannotation: i24:i10:i25 1 2 3
+Backannotation: i24:i10:i27 1 2 3
+Backannotation: i24:i10:i26 1 2 3
+Backannotation: i24:i10:i24 1 2 3
+Backannotation: i24:i10:i23 1 2 3
+Backannotation: i24:i10:i22 1 2 3
+Backannotation: i23:i10:i25 1 2 3
+Backannotation: i23:i10:i27 1 2 3
+Backannotation: i23:i10:i26 1 2 3
+Backannotation: i23:i10:i24 1 2 3
+Backannotation: i23:i10:i23 1 2 3
+Backannotation: i23:i10:i22 1 2 3
+Backannotation: i26 1 2 11 12 25 100 9
+Backannotation: i25 1 2 11 12 25 100 9
+Backannotation: i24 1 2 11 12 25 100 9
+Backannotation: i23 1 2 11 12 25 100 9
+Backannotation: s2 1 2 3
+Backannotation: s1 1 2 3
+Backannotation: i26:sw1 1 2 3
+Backannotation: i26:sw2 1 2 3
+Backannotation: i26:sw3 1 2 3
+Backannotation: i26:sw4 1 2 3
+Backannotation: i26:sw5 1 2 3
+Backannotation: i26:sw6 1 2 3
+Backannotation: i26:sw7 1 2 3
+Backannotation: i26:sw8 1 2 3
+Backannotation: i26:sw9 1 2 3
+Backannotation: i26:sw10 1 2 3
+Backannotation: i26:s11 1 2 3
+Backannotation: i26:s12 1 2 3
+Backannotation: i26:i10 9 100 11 12 3a
+Backannotation: i26:i8 1 2 3
+Backannotation: i26:i9 1 2 3
+Backannotation: i26:sw11 1 2 3
+Backannotation: i26:sw12 1 2 3
+Backannotation: i26:sw13 1 2 3
+Backannotation: i26:sw14 1 2 3
+Backannotation: i26:sw15 1 2 3
+Backannotation: i26:sw16 1 2 3
+Backannotation: i26:sw17 1 2 3
+Backannotation: i26:sw18 1 2 3
+Backannotation: i26:sw19 1 2 3
+Backannotation: i26:sw20 1 2 3
+Backannotation: i26:s21 1 2 3
+Backannotation: i26:s22 1 2 3
+Backannotation: i26:sw21 1 2 3
+Backannotation: i26:sw22 1 2 3
+Backannotation: i26:sw23 1 2 3
+Backannotation: i26:sw24 1 2 3
+Backannotation: i26:sw25 1 2 3
+Backannotation: i26:sw26 1 2 3
+Backannotation: i26:sw27 1 2 3
+Backannotation: i26:sw28 1 2 3
+Backannotation: i26:s29 1 2 3
+Backannotation: i26:s30 1 2 3
+Backannotation: i26:s31 1 2 3
+Backannotation: i26:s32 1 2 3
+Backannotation: i26:s33 1 2 3
+Backannotation: i26:s34 1 2 3
+Backannotation: i26:s35 1 2 3
+Backannotation: i26:s36 1 2 3
+Backannotation: i26:sw29 1 2 3
+Backannotation: i26:sw30 1 2 3
+Backannotation: i26:sw31 1 2 3
+Backannotation: i26:sw32 1 2 3
+Backannotation: i26:sw33 1 2 3
+Backannotation: i26:sw34 1 2 3
+Backannotation: i26:sw35 1 2 3
+Backannotation: i26:sw36 1 2 3
+Backannotation: i26:sw37 1 2 3
+Backannotation: i26:sw38 1 2 3
+Backannotation: i26:sw39 1 2 3
+Backannotation: i26:sw40 1 2 3
+Backannotation: i26:sw41 1 2 3
+Backannotation: i26:sw42 1 2 3
+Backannotation: i26:sw43 1 2 3
+Backannotation: i26:sw44 1 2 3
+Backannotation: i26:sw45 1 2 3
+Backannotation: i26:sw46 1 2 3
+Backannotation: i26:s47 1 2 3
+Backannotation: i26:s48 1 2 3
+Backannotation: i26:sw47 1 2 3
+Backannotation: i26:sw48 1 2 3
+Backannotation: i26:sw49 1 2 3
+Backannotation: i26:sw50 1 2 3
+Backannotation: i26:sw51 1 2 3
+Backannotation: i26:sw52 1 2 3
+Backannotation: i26:sw53 1 2 3
+Backannotation: i26:sw54 1 2 3
+Backannotation: i26:s55 1 2 3
+Backannotation: i26:s56 1 2 3
+Backannotation: i26:s57 1 2 3
+Backannotation: i26:s58 1 2 3
+Backannotation: i25:sw1 1 2 3
+Backannotation: i25:sw2 1 2 3
+Backannotation: i25:sw3 1 2 3
+Backannotation: i25:sw4 1 2 3
+Backannotation: i25:sw5 1 2 3
+Backannotation: i25:sw6 1 2 3
+Backannotation: i25:sw7 1 2 3
+Backannotation: i25:sw8 1 2 3
+Backannotation: i25:sw9 1 2 3
+Backannotation: i25:sw10 1 2 3
+Backannotation: i25:s11 1 2 3
+Backannotation: i25:s12 1 2 3
+Backannotation: i25:i10 9 100 11 12 3a
+Backannotation: i25:i8 1 2 3
+Backannotation: i25:i9 1 2 3
+Backannotation: i25:sw11 1 2 3
+Backannotation: i25:sw12 1 2 3
+Backannotation: i25:sw13 1 2 3
+Backannotation: i25:sw14 1 2 3
+Backannotation: i25:sw15 1 2 3
+Backannotation: i25:sw16 1 2 3
+Backannotation: i25:sw17 1 2 3
+Backannotation: i25:sw18 1 2 3
+Backannotation: i25:sw19 1 2 3
+Backannotation: i25:sw20 1 2 3
+Backannotation: i25:s21 1 2 3
+Backannotation: i25:s22 1 2 3
+Backannotation: i25:sw21 1 2 3
+Backannotation: i25:sw22 1 2 3
+Backannotation: i25:sw23 1 2 3
+Backannotation: i25:sw24 1 2 3
+Backannotation: i25:sw25 1 2 3
+Backannotation: i25:sw26 1 2 3
+Backannotation: i25:sw27 1 2 3
+Backannotation: i25:sw28 1 2 3
+Backannotation: i25:s29 1 2 3
+Backannotation: i25:s30 1 2 3
+Backannotation: i25:s31 1 2 3
+Backannotation: i25:s32 1 2 3
+Backannotation: i25:s33 1 2 3
+Backannotation: i25:s34 1 2 3
+Backannotation: i25:s35 1 2 3
+Backannotation: i25:s36 1 2 3
+Backannotation: i25:sw29 1 2 3
+Backannotation: i25:sw30 1 2 3
+Backannotation: i25:sw31 1 2 3
+Backannotation: i25:sw32 1 2 3
+Backannotation: i25:sw33 1 2 3
+Backannotation: i25:sw34 1 2 3
+Backannotation: i25:sw35 1 2 3
+Backannotation: i25:sw36 1 2 3
+Backannotation: i25:sw37 1 2 3
+Backannotation: i25:sw38 1 2 3
+Backannotation: i25:sw39 1 2 3
+Backannotation: i25:sw40 1 2 3
+Backannotation: i25:sw41 1 2 3
+Backannotation: i25:sw42 1 2 3
+Backannotation: i25:sw43 1 2 3
+Backannotation: i25:sw44 1 2 3
+Backannotation: i25:sw45 1 2 3
+Backannotation: i25:sw46 1 2 3
+Backannotation: i25:s47 1 2 3
+Backannotation: i25:s48 1 2 3
+Backannotation: i25:sw47 1 2 3
+Backannotation: i25:sw48 1 2 3
+Backannotation: i25:sw49 1 2 3
+Backannotation: i25:sw50 1 2 3
+Backannotation: i25:sw51 1 2 3
+Backannotation: i25:sw52 1 2 3
+Backannotation: i25:sw53 1 2 3
+Backannotation: i25:sw54 1 2 3
+Backannotation: i25:s55 1 2 3
+Backannotation: i25:s56 1 2 3
+Backannotation: i25:s57 1 2 3
+Backannotation: i25:s58 1 2 3
+Backannotation: i24:sw1 1 2 3
+Backannotation: i24:sw2 1 2 3
+Backannotation: i24:sw3 1 2 3
+Backannotation: i24:sw4 1 2 3
+Backannotation: i24:sw5 1 2 3
+Backannotation: i24:sw6 1 2 3
+Backannotation: i24:sw7 1 2 3
+Backannotation: i24:sw8 1 2 3
+Backannotation: i24:sw9 1 2 3
+Backannotation: i24:sw10 1 2 3
+Backannotation: i24:s11 1 2 3
+Backannotation: i24:s12 1 2 3
+Backannotation: i24:i10 9 100 11 12 3a
+Backannotation: i24:i8 1 2 3
+Backannotation: i24:i9 1 2 3
+Backannotation: i24:sw11 1 2 3
+Backannotation: i24:sw12 1 2 3
+Backannotation: i24:sw13 1 2 3
+Backannotation: i24:sw14 1 2 3
+Backannotation: i24:sw15 1 2 3
+Backannotation: i24:sw16 1 2 3
+Backannotation: i24:sw17 1 2 3
+Backannotation: i24:sw18 1 2 3
+Backannotation: i24:sw19 1 2 3
+Backannotation: i24:sw20 1 2 3
+Backannotation: i24:s21 1 2 3
+Backannotation: i24:s22 1 2 3
+Backannotation: i24:sw21 1 2 3
+Backannotation: i24:sw22 1 2 3
+Backannotation: i24:sw23 1 2 3
+Backannotation: i24:sw24 1 2 3
+Backannotation: i24:sw25 1 2 3
+Backannotation: i24:sw26 1 2 3
+Backannotation: i24:sw27 1 2 3
+Backannotation: i24:sw28 1 2 3
+Backannotation: i24:s29 1 2 3
+Backannotation: i24:s30 1 2 3
+Backannotation: i24:s31 1 2 3
+Backannotation: i24:s32 1 2 3
+Backannotation: i24:s33 1 2 3
+Backannotation: i24:s34 1 2 3
+Backannotation: i24:s35 1 2 3
+Backannotation: i24:s36 1 2 3
+Backannotation: i24:sw29 1 2 3
+Backannotation: i24:sw30 1 2 3
+Backannotation: i24:sw31 1 2 3
+Backannotation: i24:sw32 1 2 3
+Backannotation: i24:sw33 1 2 3
+Backannotation: i24:sw34 1 2 3
+Backannotation: i24:sw35 1 2 3
+Backannotation: i24:sw36 1 2 3
+Backannotation: i24:sw37 1 2 3
+Backannotation: i24:sw38 1 2 3
+Backannotation: i24:sw39 1 2 3
+Backannotation: i24:sw40 1 2 3
+Backannotation: i24:sw41 1 2 3
+Backannotation: i24:sw42 1 2 3
+Backannotation: i24:sw43 1 2 3
+Backannotation: i24:sw44 1 2 3
+Backannotation: i24:sw45 1 2 3
+Backannotation: i24:sw46 1 2 3
+Backannotation: i24:s47 1 2 3
+Backannotation: i24:s48 1 2 3
+Backannotation: i24:sw47 1 2 3
+Backannotation: i24:sw48 1 2 3
+Backannotation: i24:sw49 1 2 3
+Backannotation: i24:sw50 1 2 3
+Backannotation: i24:sw51 1 2 3
+Backannotation: i24:sw52 1 2 3
+Backannotation: i24:sw53 1 2 3
+Backannotation: i24:sw54 1 2 3
+Backannotation: i24:s55 1 2 3
+Backannotation: i24:s56 1 2 3
+Backannotation: i24:s57 1 2 3
+Backannotation: i24:s58 1 2 3
+Backannotation: i23:sw1 1 2 3
+Backannotation: i23:sw2 1 2 3
+Backannotation: i23:sw3 1 2 3
+Backannotation: i23:sw4 1 2 3
+Backannotation: i23:sw5 1 2 3
+Backannotation: i23:sw6 1 2 3
+Backannotation: i23:sw7 1 2 3
+Backannotation: i23:sw8 1 2 3
+Backannotation: i23:sw9 1 2 3
+Backannotation: i23:sw10 1 2 3
+Backannotation: i23:s11 1 2 3
+Backannotation: i23:s12 1 2 3
+Backannotation: i23:i10 9 100 11 12 3a
+Backannotation: i23:i8 1 2 3
+Backannotation: i23:i9 1 2 3
+Backannotation: i23:sw11 1 2 3
+Backannotation: i23:sw12 1 2 3
+Backannotation: i23:sw13 1 2 3
+Backannotation: i23:sw14 1 2 3
+Backannotation: i23:sw15 1 2 3
+Backannotation: i23:sw16 1 2 3
+Backannotation: i23:sw17 1 2 3
+Backannotation: i23:sw18 1 2 3
+Backannotation: i23:sw19 1 2 3
+Backannotation: i23:sw20 1 2 3
+Backannotation: i23:s21 1 2 3
+Backannotation: i23:s22 1 2 3
+Backannotation: i23:sw21 1 2 3
+Backannotation: i23:sw22 1 2 3
+Backannotation: i23:sw23 1 2 3
+Backannotation: i23:sw24 1 2 3
+Backannotation: i23:sw25 1 2 3
+Backannotation: i23:sw26 1 2 3
+Backannotation: i23:sw27 1 2 3
+Backannotation: i23:sw28 1 2 3
+Backannotation: i23:s29 1 2 3
+Backannotation: i23:s30 1 2 3
+Backannotation: i23:s31 1 2 3
+Backannotation: i23:s32 1 2 3
+Backannotation: i23:s33 1 2 3
+Backannotation: i23:s34 1 2 3
+Backannotation: i23:s35 1 2 3
+Backannotation: i23:s36 1 2 3
+Backannotation: i23:sw29 1 2 3
+Backannotation: i23:sw30 1 2 3
+Backannotation: i23:sw31 1 2 3
+Backannotation: i23:sw32 1 2 3
+Backannotation: i23:sw33 1 2 3
+Backannotation: i23:sw34 1 2 3
+Backannotation: i23:sw35 1 2 3
+Backannotation: i23:sw36 1 2 3
+Backannotation: i23:sw37 1 2 3
+Backannotation: i23:sw38 1 2 3
+Backannotation: i23:sw39 1 2 3
+Backannotation: i23:sw40 1 2 3
+Backannotation: i23:sw41 1 2 3
+Backannotation: i23:sw42 1 2 3
+Backannotation: i23:sw43 1 2 3
+Backannotation: i23:sw44 1 2 3
+Backannotation: i23:sw45 1 2 3
+Backannotation: i23:sw46 1 2 3
+Backannotation: i23:s47 1 2 3
+Backannotation: i23:s48 1 2 3
+Backannotation: i23:sw47 1 2 3
+Backannotation: i23:sw48 1 2 3
+Backannotation: i23:sw49 1 2 3
+Backannotation: i23:sw50 1 2 3
+Backannotation: i23:sw51 1 2 3
+Backannotation: i23:sw52 1 2 3
+Backannotation: i23:sw53 1 2 3
+Backannotation: i23:sw54 1 2 3
+Backannotation: i23:s55 1 2 3
+Backannotation: i23:s56 1 2 3
+Backannotation: i23:s57 1 2 3
+Backannotation: i23:s58 1 2 3
+Backannotation: i26:i10:i25 1 2 3
+Backannotation: i26:i10:i27 1 2 3
+Backannotation: i26:i10:i26 1 2 3
+Backannotation: i26:i10:i24 1 2 3
+Backannotation: i26:i10:i23 1 2 3
+Backannotation: i26:i10:i22 1 2 3
+Backannotation: i25:i10:i25 1 2 3
+Backannotation: i25:i10:i27 1 2 3
+Backannotation: i25:i10:i26 1 2 3
+Backannotation: i25:i10:i24 1 2 3
+Backannotation: i25:i10:i23 1 2 3
+Backannotation: i25:i10:i22 1 2 3
+Backannotation: i24:i10:i25 1 2 3
+Backannotation: i24:i10:i27 1 2 3
+Backannotation: i24:i10:i26 1 2 3
+Backannotation: i24:i10:i24 1 2 3
+Backannotation: i24:i10:i23 1 2 3
+Backannotation: i24:i10:i22 1 2 3
+Backannotation: i23:i10:i25 1 2 3
+Backannotation: i23:i10:i27 1 2 3
+Backannotation: i23:i10:i26 1 2 3
+Backannotation: i23:i10:i24 1 2 3
+Backannotation: i23:i10:i23 1 2 3
+Backannotation: i23:i10:i22 1 2 3
+Backannotation: u1 1 2 3 4 5
+Variables:
+	0	time	time
+	1	V(vcc)	voltage
+	2	V(n001)	voltage
+	3	V(vee)	voltage
+	4	V(vout)	voltage
+	5	V(vin)	voltage
+	6	Ic(Q1)	device_current
+	7	Ib(Q1)	device_current
+	8	Ie(Q1)	device_current
+	9	I(R1)	device_current
+	10	I(V3)	device_current
+	11	I(V2)	device_current
+	12	I(V1)	device_current
+	13	Ix(u1:1)	subckt_current
+	14	Ix(u1:2)	subckt_current
+	15	Ix(u1:3)	subckt_current
+	16	Ix(u1:4)	subckt_current
+	17	Ix(u1:5)	subckt_current
+Binary:
+           @–„.?   ÀœÝÔ6    BI£;Ü7×£»×£;ƒU±ÔAª»ÍAª»ƒU1	U1e_9€WM¹€Ü·   à.¾   @êŠ.?   ÀI¸Ö8”þ|9	J£;4ä7í×£»ç×£;T"}±ŒBª»„Bª»T"}1Õe1[_9·TM¹.ä·   à.‘>   @2 .?   ÀæÖÞ9”þü9³L£;Šï7£Ú£»›Ú£;ùo±"Eª»Eª»ùo1B{1ë_9äPM¹@ï·   à.¡>   @BÇ.?   ÀY…:”þ|:©Q£;êñ7›ß£»“ß£;óÁn±Jª»Jª»óÁn1†u1™_9?QM¹ñ·   à.±>   @í/?   À±íý:’þü:]Y£;Ýô7Rç£»Kç£;¢én±ÛQª»ÔQª»¢én1tj1Ù_9RM¹êó·n3"Ã›†¿   @ÌZ?   Àm->ê->®Í¨;ˆB“7ð`©»é`©;:àn±Æ¯»Æ¯»:àn1¶äp1_9«¥L¹ü9“·n3b«?d'?   @t‚?   À¼«>A»«>3<®;ƒ’˜7ÅÔ®»¾Ô®;Ð¾n±4µ»†4µ»Ð¾n1‡Æn1\
+_9éùK¹½‹˜·¨&†øb3?   @>mž?   À·}?R}?ÝSµ;k–Ÿ7sóµ»lóµ;Bnn±"L¼»L¼»Bnn1Åun1Ã_9ÓK¹ÁŽŸ·hâˆóTbA?   @vÔ?   ÀŒ/x?%/x?XîÂ;G­7Ÿ›Ã»—›Ã;ŠRm±uæÉ»næÉ»ŠRm1Ym1Ä_9¼[I¹>­·’ÿ9*bP?   @ð2@   ÀJíÛ?íÛ?½]Û;ÒuÆ73$Ü»,$Ü;ù i±“Uâ»‹Uâ»ù i1Ï§i1Ìù^9å,F¹gÆ·Œ[ÒñçNY?   @rH@   Àšü@‚ü@PÕò;J?ß7´ó»‰´ó; |c±áÌù»ÛÌù» |c1Ê‚c1Hñ^9&C¹’,ß·D$æå];^?   @ºh[@   ÀÝ.@ÿÜ.@*uü;g¡é7Ì^ý»Å^ý;"U_±P¶¼M¶¼"U_1ˆ[_1èí^9{»A¹—–é·g_k€[â`?   @È³d@   À¯8@–8@\– <Ëî7Á¼¾<|\±¼¼|\1¥\1_ì^9µA¹»Åî·m-—K×2b?   @B%i@   À2Š<@Š<@
+·<€Fñ7®/¼ª/<U…Y±½2¼¹2¼U…Y1-‹Y1¾ë^9¢Ä@¹Añ·u×,JH¥c?   @^‚k@   À¬ä>@’ä>@P<Æ˜ò7éÉ¼æÉ<0¬V±OÌ¼KÌ¼0¬V1«±V1•ë^9*š@¹s“ò·$\øee?   @Ú?k@   Àq¢>@X¢>@¼?<»qò7õ¸¼ò¸<ç3S±p»¼l»¼ç3S19S1
+ì^9yŸ@¹«kò·ÛÌU5"4g?   @Õùf@   À5a:@a:@*<Ìð7¢¼¢<°­O±Ð¥¼Ì¥¼°­O1¬²O1Uí^9zí@¹ ð·’YØÔŸ!j?   @ ^W@   À^×*@E×*@,hú;«fç7“Oû»Oû;¬KJ±Þ¯ ¼Û¯ ¼¬KJ1‰PJ1)ñ^9çB¹Wç·"KµÝÍn?   @sê-@   ÀÞ•@Ä•@_å;„Ñ70æ»0æ;ûC±êVì»ãVì»ûC1Ð C1Rú^9HÛD¹`àÐ·v\¿mwnr?   @MuÈ?   Àq#a?#a?¶ý¿;9°ª7f¨À»a¨À;6=±öÆ»öÆ»6=1n;=1[	_9Î´I¹‹ª·¶Èµ.Mu?   @äs¨>   Às%³¾M&³¾iÜ—;M…ƒ7î_˜»è_˜;%P<±0Õž»*Õž»%P<1U<1<_9©N¹Xjƒ·ñXQhÙÉx?   @SŒ¿   ÀÑá¿=Ñá¿›^S;0M17éT»ÝT;8A±'Qa»Qa»8A1ò<A1ô'_9¤T¹Ý+1·™lŸ†{?   @ë¿   ÀP Àl ÀE#;Úd7Ë#»uË#;š\G±81»81»š\G1maG1m/_9®ÊV¹ŒX·*Ð7Õg6|?   @÷ÝÀ   À²ö0ÀÏö0À¼ ;äÝî6+x»x; VK±åó»Ùó» VK1I[K1Ñ1_9y¼W¹`Ðî¶ù]hó}?   @/-À   À÷*9À+9À7¡	;SŽà6~
+»r
+;JyN±q”»d”»JyN1ª}N1Ð2_9û/X¹ö‚à¶ë‹á¸­}?   @’À   À	=À%=ÀÌ±;ØÞÙ6»»¯;æP±¥»ÿ¤»æP1&êP1)3_9ÕeX¹#ÔÙ¶`@óO™k~?   @…6À   À”?À°?À*;Ç?Ö6Jø»=ø;»ÕS±j€»]€»»ÕS1˜ÙS1'3_9Ð‚X¹Ž1Ö¶W§“×9?   @ë«À   Àæ–>À—>À¨;;2×6A„»3„;‰W±à»Ò»‰W10W1­2_9ÉzX¹®"×¶o4Ê–€?   @ÞÀ   ÀVÙ9ÀrÙ9À5ï;¿wß6ñ^	»ã^	;y£Z±Zâ»Lâ»y£Z1û¦Z1q1_9h7X¹‰bß¶ðà6ßŽÔ€?   @÷þ¿   À¨:)ÀÃ:)À]å;¿ü6¼c»®c;£%`±KØ'»=Ø'»£%`1ö(`1ù-_9ÁIW¹ž›ü¶ªO•Â‚?   @—²¤¿   À)õù¿^õù¿DG;åk&7°³G»¢³G;1Jg±«ÿT»œÿT»1Jg1cMg1}%_9ÀT¹¡D&·Ï^‹ƒvÕƒ?   @ÖG>   À»¿$¿k‘;'0{7¤è‘»œè‘;"@m±¹c˜»²c˜»"@m1Cm1»_9“cO¹xðz·#}iX~…?   @È?   ÀÒV`?kV`?‡ã¿;=°ª77ŽÀ»/ŽÀ;Ÿ×l±­ÛÆ»¥ÛÆ»Ÿ×l1nÚl1Ñ_9£¯I¹ñšª·mJhàÖÐ†?   @õ;&@   Àiàó?6àó?×xá;TíÌ7ÄEâ»½Eâ;àh±›pè»“pè»àh1h1‘÷^9·[E¹úÔÌ·¨1o—ë‡?   @üUQ@   ÀÍÕ$@´Õ$@<X÷;éä7X<ø»Q<ø;|ªa±ÁOþ»ºOþ»|ªa1­a1±ï^9nB¹¼ä·œ­Ž‰tˆ?   @(÷_@   ÀNf3@5f3@.Åþ;(ì7V±ÿ»P±ÿ;€è]±OÞ¼LÞ¼€è]1ë]1#í^9ÝiA¹@ì·26ÓØˆ?   @Jîf@   À²U:@™U:@&'<Ž	ð7+Ÿ¼(Ÿ<"ôZ±Ù¢¼Ö¢¼"ôZ1öZ1
+ì^9Žì@¹Üð·†È$Ý*‰?   @tsj@   ÀîÖ=@ÕÖ=@Ü<~ò7Ü„¼Ù„<»rX±‡¼Š‡¼»rX1uX1™ë^9­@¹Õüñ·b‘jõ~‰?   @ä÷k@   À¯Y?@–Y?@qn<jÚò7Þç¼Ûç<üÙU±#ê¼ê¼üÙU1AÜU1•ë^9ô‘@¹zÕò·á.d˜VÞ‰?   @ê*k@   À˜>@>@l:<Ýeò7Ÿ³¼œ³<žæR± ¶¼¶¼žæR1ÕèR1ì^9¡@¹Ä_ò·áüœEXŠ?   @Af@   À¸k9@žk9@ƒë <‚ï7Ec¼Bc<ë2O±=g¼:g¼ë2O1:5O1–í^9ôþ@¹†zï·È÷*Áo‹?   @tT@   ÀÅð'@«ð'@íø;¯Íå7\Óù»WÓù;¹˜I±$åÿ»åÿ»¹˜I1›I1Õñ^9²9B¹p¼å·*ÆÀWŒ?   @`!'@   À–ªõ?aªõ?§íá;gÍ7»â»»â;¡FB±‹åè»…åè»¡FB1IB1Åû^9hPE¹§@Í·Æìq˜Ñ?   @ê[»?   ÀG?¤G?z«¼;š^§7ÙR½»ÓR½;„ñ<±Õ£Ã»Ï£Ã»„ñ<1ô<1£
+_9J J¹l:§·rƒÆHÊI?   @â?>   À#.û¾ý.û¾œD“;L;~7ºÃ“»´Ã“;n<±r=š»l=š»n<1Îp<1ä_9¨7O¹O~·+oµÁco?   @<ëŒ¿   ÀÝiâ¿jâ¿¸S;Îî07§ÁS»›ÁS; A±Ea»9a» A1ì"A1(_9žT¹YÒ0·4i»ü?   @qvé¿   ÀäÀÿÀØL$;?I7!Ô$»Ô$;!%G±Ø?2»Ì?2»!%G1ð'G1H/_9B¼V¹h>·»¿ªH‘?   @PÀ   ÀŽj0À©j0ÀÃ;QÓï6­»¡; ,K±ì‚ »ß‚ » ,K1/K1¿1_9»´W¹äÅï¶Re¼z~‘?   @æÀ   ÀÑä8Àìä8ÀÐè	;@á6TY
+»GY
+;bXN±	Ü»ýÛ»bXN1L[N1È2_9#,X¹Îüà¶Tú2§‘?   @õôÀ   ÀÝå<Àùå<À¢Ò;„Ú6®?»¡?; ÌP±âÅ»ÕÅ» ÌP1­ÏP1'3_9dX¹ÔÚ¶/1e:SÖ‘?   @õ'À   À8?ÀT?ÀÓ›;rXÖ6þ»ñ;%¶S±»»%¶S1^¹S1)3_9‚X¹'JÖ¶Þ«Gõ
+’?   @¯À   Àš>À#š>Àv;³,×6»þ€;Ö÷V±®»¡»Ö÷V1"ûV1¯2_9÷zX¹å×¶'0¢F’?   @uÀ   ÀCþ9À`þ9À…É;57ß6!9	»9	;ÐZ±ª¼»¼»ÐZ1Q”Z1y1_9u9X¹"ß¶0YÀ¥’?   @ùþ¿   Àfª)À‚ª)ÀSs;¦øû6Oñ»Añ;m
+`±Af'»4f'»m
+`1Ø`1._9
+PW¹ÍÕû¶ñ<í<>“?   @)Ô¦¿   ÀÓü¿	ü¿kùE;ðr%7ÞžF»ÐžF;¶+g±ÕëS»ÆëS»¶+g12/g1¯%_9OÐT¹úK%·À=ªŽÂ#”?   @YñÍ=   À¿p¿du;k]y7ò»ò;Î3m±n—»n—»Î3m1)7m1_9O¹y·þ>^jø”?   @Š…Ä?   ÀRY?œQY?nþ¾;Ë©79¨¿»1¨¿;Eêl±–öÅ»öÅ»Eêl1ƒíl1%_9ÌI¹¶©·LÓ5úô¡•?   @…Ø$@   Àñ?ãñ?Äà;P1Ì7±á»©á;Ah±E¼ç»>¼ç»Ah1ÐDh1Ó÷^9ysE¹Ì·ŽU=1–?   @ÈÖP@   À-W$@W$@­÷;wÕã7‚û÷»{û÷;³Äa±2þ»*þ»³Äa1åÇa1Çï^9ÜvB¹ß»ã·Kß Gv–?   @g¹_@   ÀÒ(3@¹(3@Õ¥þ;¿ì7Û‘ÿ»Ô‘ÿ;*ý]±£Î¼ŸÎ¼*ý]1¶ ^1-í^92nA¹°ùë·¨%©¨–?   @FÑf@   ÀÏ8:@¶8:@É<Yùï7Æ—¼Â—<Þ[±}›¼y›¼Þ[1€[1ì^9™î@¹œôï· ÜŒÑ–?   @^\j@   Àó¿=@Ú¿=@ÿ<’ôñ7ú~¼ö~<¦†X±±¼®¼¦†X1¨ŠX1œë^9º®@¹Úïñ·pfìŸü–?   @¾òk@   ÀŽT?@uT?@#m<‡×ò7Žæ¼‹æ<—ÝU±Ôè¼Ñè¼—ÝU1üáU1–ë^9Q’@¹Òò·m{á,—?   @h+k@   ÀŽ>@þ>@Œ:<$fò7¿³¼¼³< çR±@¶¼<¶¼ çR1¿ëR1ì^9ø @¹	`ò·àª¥Ri—?   @äf@   ÀTq9@:q9@òì <+…ï7´d¼±d<J4O±¬h¼¨h¼J4O1^9O1•í^9Žþ@¹º}ï·Ï"2öÞË—?   @ú„T@   ÀŒ(@r(@öø;êÖå7óÛù»íÛù;3›I±²íÿ»¬íÿ»3›I1W I1Ññ^9‡8B¹¶Åå·‘<í£ˆh˜?   @I'@   À­ùõ?yùõ?Ñâ;|Í7MÏâ»GÏâ;•IB±µùè»¯ùè»•IB1	OB1¼û^9¿ME¹ÃUÍ·D‡,D¼%™?   @HÉ»?   À‹ðG? ðG?5Ç¼;<z§7¯n½»©n½;ò<±¿Ã»Š¿Ã»ò<1­÷<1˜
+_9ËJ¹V§·ž›×+Òá™?   @èI>   ÀÝ+ö¾·,ö¾R–“;ÿð~7Ë”»Å”;7„<±&š» š»7„<1Š<1¿_9(,O¹û¾~·.–¹ÅÂš?   @GÆ›¿   Àë ñ¿#!ñ¿©ŽK;B*7ì8L»à8L;îÿA±IY»=Y»îÿA1B15)_9—†T¹V *·¯ÁÝ™“I›?   @#`ñ¿   À¯ò"ÀËò"À{N ;ÙÎ7KÒ »>Ò ;ÔíG±†A.»zA.»ÔíG1çóG1Ú/_9|ôV¹Â·>t±o›?   @ LÀ   ÀÖ`2Àò`2À$;Fdì6W»J;2ÊK±Q‚»E‚»2ÊK1¸ÐK1 2_9uÐW¹™Wì¶ØiY¯ÿÃ›?   @9ßÀ   ÀªÚ9ÀÆÚ9Àæí;,]ß6”]	»‡]	;fÒN± á»á»fÒN1ýØN1â2_9—9X¹Rß¶éžÅ¢ì›?   @ûzÀ   Àj=À/j=À²K;æ1Ù6K¸»>¸;oAQ±ò>»å>»oAQ1YHQ1/3_9BkX¹'Ù¶$˜ŽwÇœ?   @ccÀ   ÀÕK?ÀñK?À `;õóÕ6úÊ»íÊ;ÑRT±?S»2S»ÑRT1!ZT13_9(…X¹jæÕ¶/qY Lœ?   @ŸžÀ   ÀÅ‰>Àà‰>À&;`I×6³‘»¥‘;¢0W±F»8»¢0W1"8W1¥2_9zX¹";×¶ÕÌ2îƒ‰œ?   @BEÀ   ÀB9ÀB9À%‰	;pà6eù	»Wù	;LëZ±H|»:|»LëZ1DóZ1N1_9	/X¹jà¶WA áöìœ?   @±ƒú¿   À%v'À@v'À)³;'ãÿ63»3;)Ž`±¦)»¦)»)Ž`1–`1Ÿ-_9G0W¹¯½ÿ¶¢
+ÒsõŠ?   @G#¿   Àzyò¿±yò¿¼ÞJ;Ç)7„ˆK»vˆK;­Ñg±ÑX»
+ÑX»­Ñg1©Ùg1È$_9'ŠT¹<£)·þqEw€^ž?   @ˆI=   Àp©¿Ú©¿ñ¯;ßw7à+»Ù+;ê4m±£¨–»œ¨–»ê4m1Å<m1\_9G™O¹2¬w·V';Ÿ?   @âÇÈ?   ÀGËa?áÊa?ýÀ;§æª7ã½À»Ü½À;kÆl±"Ç»Ç»kÆl1&Îl1¿_9Ã¨I¹ÿÓª·i5èsdåŸ?   @mð&@   ÀGõ?OGõ?dÔá;MÍ7±¡â»ª¡â;ªh±'Ìè» Ìè»ªh1uh1p÷^9ŽOE¹Š4Í·¸Š­ó9 ?   @j«Q@   ÀÔ*%@»*%@–ƒ÷;¦Iä7àgø»Ùgø;3•a±{þ»{þ»3•a1Òœa1¡ï^90hB¹q0ä·¦O[ ?   @½!`@   À³3@™3@ËÚþ;µ?ì7Çÿ»Çÿ;×]±é¼é¼×]1*ß]1í^9áfA¹4ì·Ì®»aós ?   @Ig@   À›i:@‚i:@9,<»ð7D¤¼@¤<ÕåZ±í§¼é§¼ÕåZ1éíZ1ì^9&ë@¹0ð·ó´(†ˆ ?   @<ƒj@   À¥æ=@Œæ=@Ý<T
+ò7âˆ¼Þˆ<6aX±Ž‹¼‹‹¼6aX1¯iX1˜ë^9þ«@¹Þò·Ð÷‡7H ?   @qûk@   À7]?@]?@Xo<gÜò7Æè¼Âè<…ÓU±	ë¼ë¼…ÓU1OÜU1•ë^9´‘@¹¶×ò·¦Ô+µ ?   @’*k@   À@>@(>@U:<ªeò7‰³¼…³<âR±
+¶¼¶¼âR1ßêR1ì^9¡@¹Ë_ò·¡¹3RˆÓ ?   @Vÿe@   ÀÐg9@·g9@…ê <Õï7Eb¼Bb<—-O±>f¼;f¼—-O1æ6O1—í^9;ÿ@¹ˆxï·WÍ[&æ¡?   @dhT@   Àå'@þä'@›çø;CÇå7bÍù»\Íù;ƒ’I±0ßÿ»)ßÿ»ƒ’I1²›I1Øñ^9ƒ:B¹J¶å·Fè—^S¡?   @î'@   Àïwõ?»wõ?½àá;UYÍ7®â»®â;®?B±¡Øè»›Øè»®?B1<IB1Êû^9$RE¹T3Í·4LLÒ±¡?   @qf»?   À,G?˜+G?&®¼;<a§7‡U½»U½;øí<±¦Ã»{¦Ã»øí<1º÷<1¢
+_9ôJ¹K=§·úü¢?   @E>   Àk˜ø¾E™ø¾Àn“;H¦~7î“»î“;]„<±•gš»gš»]„<1]Ž<1Í_9â0O¹Åt~·ŽöÝ¤u€¢?   @dGœ¿   Àß ñ¿¡ñ¿bMK;O*7i÷K»]÷K;£B±@Y»ö?Y»£B1áB1?)_9NŠT¹æ)·xþE7®Ã¢?   @Èñ¿   ÀB	#À^	#Às7 ;Äº7-» » » ;VðG±|*.»p*.»VðG1búG1Ý/_9ÁõV¹®·­j¶Ÿç¢?   @¬WÀ   À¿k2ÀÛk2À„;2Qì6+ú»ú;ÑËK±/w»"w»ÑËK1aÖK12_9ÑW¹ÑDì¶“ÁvÏ £?   @läÀ   ÀÌß9Àçß9À©è;CTß6SX	»FX	;MÓN±äÛ»×Û»MÓN1¢ÝN1ã2_9ß9X¹}Iß¶K›¶%Ý£?   @—~À   À£m=À¾m=ÀH;¿+Ù6¦´»™´;-CQ±P;»C;»-CQ1¯MQ1/3_9tkX¹X!Ù¶·©ô¿-£?   @¸dÀ   À%M?ÀAM?À©^;¶ñÕ6¢É»”É;ŠUT±èQ»ÛQ»ŠUT1J`T13_9:…X¹»äÕ¶Á„­ÕD£?   @#žÀ   ÀI‰>Àe‰>ÀŒ&;8J×61’»#’;¦0W±Ã»¶»¦0W1^;W1¤2_9zX¹”<×¶+KÖþc£?   @Ç?À   À=9À4=9ÀªŽ	;æˆà6ïþ	»áþ	;MìZ±Í»À»MìZ1÷Z1M1_9¼.X¹7tà¶„M¿V•£?   @cú¿   Àf'À"f'ÀÃ;Óÿÿ6C»C;``±…¶)»w¶)»``10›`1œ-_9_/W¹Ûÿ¶5i‘¡iä£?   @:Øœ¿   À/ò¿T/ò¿®K;é)7—®K»ˆ®K;wÔg±÷X»úöX»wÔg1aßg1Á$_9 ˆT¹°Å)·IúÊÿ'N¤?   @ÁD¢=   À/¿˜¿ Ä;$x7"@»@;Ä4m±Ñ¼–»Ê¼–»Ä4m1i?m1U_9Ý–O¹ãÒw·páo¼t¼¤?   @0É?   Àîrb?ˆrb?](À;üª7YÓÀ»RÓÀ;>Ãl±‚ Ç»{ Ç»>Ãl1¡Íl1·_9¦I¹ƒéª·Î<ÿø—¥?   @„'@   À^‡õ?+‡õ?­äá;^Í7²â»²â;ãþg±oÜè»gÜè»ãþg1C	h1j÷^9hME¹ŸEÍ·¶R+ØW¥?   @'·Q@   Àƒ6%@j6%@Œ‰÷;Pä7Ûmø»Ômø;|‘a±þ»þ»|‘a1v›a1 ï^9`gB¹7ä·è8ÑÆÛy¥?   @t'`@   Àc–3@J–3@±Ýþ;âBì7ôÉÿ»íÉÿ;ÞÓ]±‘ê¼ê¼ÞÓ]1kÞ]1í^9zfA¹j7ì·9s÷p¸’¥?   @øg@   ÀGl:@.l:@ç,<:ð7ó¤¼ð¤<7ãZ±›¨¼˜¨¼7ãZ1jíZ1ì^9õê@¹Òð·¶Œ½°e§¥?   @W…j@   À¿è=@¥è=@f<‚ò7k‰¼h‰<F^X±Œ¼Œ¼F^X1¼hX1—ë^9Ø«@¹7ò·¥*¼¥?   @ëûk@   À±]?@—]?@vo<«Üò7åè¼áè<-ÒU±(ë¼%ë¼-ÒU1ÐÜU1•ë^9«‘@¹+Øò·Àû¢­ÉÓ¥?   @†*k@   À5>@>@S:<¤eò7†³¼‚³<áR±¶¼¶¼áR1xëR1ì^9	¡@¹ü_ò·žgÇBò¥?   @Îþe@   ÀJg9@0g9@cê <‰ï7"b¼b<‘,O±f¼f¼‘,O1{7O1—í^9Eÿ@¹xxï·oÞzê¡#¦?   @ÐfT@   À…ã'@kã'@Îæø;fÆå7”Ìù»ŽÌù;n‘I±cÞÿ»\Þÿ»n‘I1œI1Øñ^9Ÿ:B¹ºµå·_w¶r¦?   @'@   À@rõ?rõ?Jßá;¼WÍ7¢¬â»œ¬â;k>B±.×è»(×è»k>B1mIB1Ëû^9XRE¹2Í··éÁ/}Ð¦?   @v~»?   ÀÆ[G?\[G?=´¼;Jg§7¤[½»Ÿ[½;Ÿí<±˜¬Ã»’¬Ã»Ÿí<1Øø<1 
+_90J¹ŽC§·‡÷E³.§?   @…E>   À<Žø¾ø¾fo“;˜§~7ºî“»µî“; ƒ<±;hš»5hš» ƒ<1<1Í_9Í0O¹zv~·æ›úõ!Ÿ§?   @m7œ¿   À‘ñ¿G‘ñ¿sUK;z*7ÿK»uÿK;éB±HY»HY»éB1¬B1>)_9Ú‰T¹¯í)·5È„¯]â§?   @þ„ñ¿   Àê#À#Àá; ;ž¾7 ¿ »”¿ ;¹îG±ì..»ß..»¹îG1úG1Ý/_9ƒõV¹"²·t.¡Á¨?   @uUÀ   Ài2À«i2À>†;Uì6hü»\ü;nÊK±jy»^y»nÊK1_ÖK12_9ðÐW¹êHì¶8Œƒ¨?   @aãÀ   ÀÄÞ9ÀàÞ9Àµé;Vß6`Y	»SY	;,ÒN±ñÜ»äÜ»,ÒN1•ÝN1ã2_9Ð9X¹ªKß¶bqì¤3¨?   @Þ}À   Àìl=Àm=ÀÊH;û,Ù6`µ»Sµ;øAQ±
+<»ý;»øAQ1iMQ1/3_9jkX¹#Ù¶òX<qL¨?   @tdÀ   ÀâL?ÀýL?Àí^;)òÕ6æÉ»ÙÉ;;TT±,R»R»;TT1Ë_T13_96…X¹¹åÕ¶d^Q‹c¨?   @<žÀ   Àb‰>À~‰>Àr&;J×6’»
+’;ø/W±ª»»ø/W1T;W1¥2_9zX¹ù<×¶ƒõ(õC‚¨?   @à@À   À.>9ÀJ>9À	;ÿ†à6Óý	»Åý	;xëZ±±€»¤€»xëZ1\÷Z1N1_9Ì.X¹sà¶`¾,´¨?   @£iú¿   ÀCi'À_i'ÀOÀ;úÿ6L@»>@;^`±7³)»)³)»^`1¬š`1-_9/W¹&Öÿ¶~#Æþ©?   @¯çœ¿   Àq>ò¿§>ò¿ÜüJ;	â)7¾¦K»°¦K;iÓg±7ïX»)ïX»iÓg1ÏÞg1Ã$_9rˆT¹¿)·q×WÒl©?   @-¾ =   À¬;¿<¿ñ½;\ùw7í9»æ9;G4m±£¶–»œ¶–»G4m1Q?m1W_9œ—O¹ŸÇw·Â¯ÏÛ©?   @ûýÈ?   ÀÙ6b?r6b?´ À;^ôª7¨ËÀ»¡ËÀ;ËÃl±ÙÇ»ÒÇ»ËÃl1Îl1º_9§I¹éáª·¨‚äÔ<0ª?   @Þ'@   À2lõ?ÿkõ?¿Ýá;OWÍ7«â»«â;A h±Õè»zÕè»A h1î
+h1m÷^9SNE¹€>Í·à<%ê†vª?   @j²Q@   ÀÌ1%@³1%@$‡÷;yMä7qkø»jkø;^’a±¨~þ»¡~þ»^’a1€œa1 ï^9´gB¹©4ä·ùîï9˜ª?   @*%`@   À”3@”3@ˆÜþ;œAì7ÉÈÿ»ÂÈÿ;Ô]±üé¼øé¼Ô]1]ß]1í^9¤fA¹E6ì·i$:¨k±ª?   @åg@   À5k:@k:@¢,< ð7¬¤¼©¤<ÃãZ±U¨¼R¨¼ÃãZ1îZ1ì^9	ë@¹[ð·vŠY©Æª?   @€„j@   Àçç=@Îç=@/<	ò74‰¼1‰<_X±á‹¼Ý‹¼_X1ŽiX1—ë^9ç«@¹èò·’àšùºÚª?   @ºûk@   À€]?@g]?@jo<Üò7Øè¼Õè<SÒU±ë¼ë¼SÒU1ÝU1•ë^9®‘@¹>Øò·Žµ·xòª?   @‹*k@   À9>@ >@T:<¦eò7‡³¼ƒ³<)áR±¶¼¶¼)áR1ëR1ì^9¡@¹7`ò·µt>ú«?   @ÿe@   Àg9@fg9@pê <¨ï70b¼-b<ª,O±*f¼'f¼ª,O1¦7O1—í^9Aÿ@¹Ôxï·¦ßðÚXB«?   @rgT@   À&ä'@ä'@ çø;¿Æå7çÌù»àÌù;“‘I±µÞÿ»¯Þÿ»“‘I1œI1Øñ^9“:B¹a¶å·À›àÑ«?   @Q'@   Àµvõ?€võ?màá;ÚXÍ7Æ­â»¿­â;z>B±QØè»KØè»z>B1€IB1Êû^94RE¹ 3Í·q“÷o"ï«?   @æŸ»?   ÀFžG?ÛG?¸¼¼;»o§7(d½»!d½;1î<±µÃ»µÃ»1î<1kù<1œ
+_9J¹3L§·®#šbM¬?   @í”E>   ÀuQø¾PRø¾Gs“;¯~7žò“»˜ò“;rƒ<±lš»lš»rƒ<1ñŽ<1Ì_9U0O¹F~~·î¹CÆ½¬?   @œ¿   Àûuñ¿3vñ¿DcK;Ò*7_L»RL;RB±äUY»×UY»RB1B1<)_9‰T¹‰ú)·@
+O	­?   @þwñ¿   À|þ"À—þ"ÀqB ;SÄ75Æ »)Æ ;aíG±|5.»o5.»aíG1¯øG1Ü/_9'õV¹¸·[w·p$­?   @7RÀ   À[f2Àwf2À‚‰;ŸZì6°ÿ»£ÿ;^ÉK±¯|»¢|»^ÉK1]ÕK12_9ÃÐW¹ÈNì¶)a6–4>­?   @ÚáÀ   ÀCÝ9À^Ý9À?ë;ªXß6ëZ	»ßZ	;YÑN±zÞ»mÞ»YÑN1µÜN1ã2_9»9X¹­Nß¶fŠs?R­?   @Ï|À   Àák=Àýk=ÀÛI;É.Ù6s¶»f¶;ì@Q±=»=»ì@Q1RLQ1/3_9[kX¹H%Ù¶g¯Ùk­?   @dÀ   À€L?À›L?ÀR_;ÑòÕ6KÊ»>Ê;ìRT±‘R»„R»ìRT1z^T13_91…X¹îæÕ¶»ž¸?‚­?   @`žÀ   À†‰>À¢‰>ÀN&;ÍI×6ò‘»å‘;{/W±…»x»{/W1Ì:W1¥2_9zX¹J=×¶¨ÊÐçõ ­?   @|BÀ   ÀÅ?9Àà?9Àð‹	;8„à62ü	»$ü	;¶êZ±»»¶êZ1©öZ1N1_9â.X¹ qà¶¼C¶Ò­?   @4sú¿   Àÿm'Àn'À{»;¦ñÿ6t;»f;;FŽ`±c®)»U®)»FŽ`1‹™`1-_9Ò/W¹”Îÿ¶íûbK¿!®?   @!þœ¿   À¯Tò¿åTò¿ƒñJ;Í×)7[›K»L›K;3Òg±ÞãX»ÐãX»3Òg1œÝg1Å$_9‰T¹3µ)·Ø“xw‹®?   @¹ž=   ÀÝ{¿G|¿Áµ;Ééw7¶1»®1;à3m±s®–»l®–»à3m1é>m1Z_9˜˜O¹¸w·ëˆç·»ù®?   @ ×È?   À”éa?/éa?ÚÀ;têª7ÄÁÀ»½ÁÀ;¶Äl± Ç»øÇ»¶Äl1hÏl1½_9H¨I¹Øª·â¸]ØÜN¯?   @Éñ&@   À6Jõ?Jõ?Õá;BNÍ7c¢â»\¢â;#h±ØÌè»ÐÌè»#h1Óh1p÷^9xOE¹‘5Í·ÿÖ_&3•¯?   @p¬Q@   ÀÙ+%@À+%@„÷;6Jä7fhø»_hø; “a±Ÿ{þ»™{þ» “a1°a1¡ï^9hB¹’1ä·¡0áß<·¯?   @F"`@   À;‘3@"‘3@Ûþ;@ì7PÇÿ»IÇÿ;‘Õ]±@é¼=é¼‘Õ]1kà]1í^9×fA¹Ê4ì·™ èˆÐ¯?   @‰g@   ÀÛi:@Âi:@J,<Þð7T¤¼Q¤<ŠäZ±ý§¼ú§¼ŠäZ1ËîZ1ì^9!ë@¹»ð·Ò÷Çä¯?   @nƒj@   ÀØæ=@¾æ=@ê<p
+ò7ïˆ¼ìˆ<ÿ_X±›‹¼˜‹¼ÿ_X1‰jX1—ë^9ú«@¹yò·÷Ö‚qù¯?   @}ûk@   ÀC]?@)]?@Zo<mÜò7Éè¼Æè<ŒÒU±ë¼	ë¼ŒÒU1KÝU1•ë^9³‘@¹KØò·¦Q9œ°?   @‘*k@   À?>@&>@U:<©eò7ˆ³¼…³<>áR±	¶¼¶¼>áR1‰ëR1ì^9¡@¹t`ò·ÏX›½Ø°?   @Iÿe@   ÀÄg9@ªg9@‚ê <Îï7Ab¼>b<Ë,O±;f¼8f¼Ë,O1Ö7O1—í^9<ÿ@¹9yï·û^·‡0°?   @>hT@   Àòä'@Øä'@ˆçø;/Çå7OÍù»HÍù;Â‘I±ßÿ»ßÿ»Â‘I1DœI1Øñ^9…:B¹!·å·~%®¼ÃW°?   @ì	'@   Àä{õ?¯{õ?¿áá;(ZÍ7¯â»¯â;–>B±¤Ùè»žÙè»–>B1žIB1Êû^9	RE¹V5Í·ˆ]Ôã†°?   @XÁ»?   ÀËàG?`àG?3Å¼;-x§7«l½»¥l½;Äî<±Ž½Ã»ˆ½Ã»Äî<1þù<1™
+_9J¹ÙT§·ñ<T¶°?   @˜F>   Àø¾ìø¾Qw“;¹¶~7­ö“»§ö“;Bƒ<±%pš» pš»Bƒ<1ÃŽ<1Ê_9Ø/O¹b†~·@G¨/5î°?   @u œ¿   À›Zñ¿ÒZñ¿;qK;L'*7bL»WL;¹ÿA±ÛcY»ÏcY»¹ÿA1ŒB1:)_9IˆT¹ˆ*·Ì>3Ú±?   @ïjñ¿   Àø"À"ø"ÀI ;Ê7ÒÌ »ÆÌ ;ìG±<.»<.»ìG1E÷G1Û/_9ÊôV¹ê½·‹ñþâ!±?   @öNÀ   À$c2À@c2ÀÊŒ;>`ì6ú»í;NÈK±÷»ê»NÈK1YÔK1 2_9–ÐW¹¬Tì¶ HÕs.±?   @RàÀ   ÀÀÛ9ÀÜÛ9ÀÊì;I[ß6x\	»k\	;†ÐN±à»øß»†ÐN1ÓÛN1ã2_9¦9X¹³Qß¶›Ðw8±?   @¿{À   ÀÕj=Àðj=ÀîJ;™0Ù6†·»y·;ß?Q±->» >»ß?Q19KQ1/3_9MkX¹Œ'Ù¶Äù¨LæD±?   @¬cÀ   ÀL?À8L?À·_;{óÕ6±Ê»¤Ê;QT±öR»éR»QT1']T13_9,…X¹%èÕ¶‹°ÅzP±?   @…žÀ   À«‰>ÀÆ‰>À)&;I×6Í‘»À‘;ÿ.W±`»S»ÿ.W1C:W1¥2_9zX¹=×¶o©êÓ_±?   @DÀ   À]A9ÀxA9ÀPŠ	;oà6ú	»ƒú	;òéZ±r}»e}»òéZ1õõZ1N1_9ù.X¹õnà¶íjZ²x±?   @Î|ú¿   À¾r'ÀÙr'À£¶;5éÿ6˜6»Š6;.`±‹©)»}©)».`1j˜`1ž-_90W¹þÆÿ¶án.Å3 ±?   @£¿   Àýjò¿3kò¿"æJ;‹Í)7ïK»áK;ûÐg±}ØX»nØX»ûÐg1hÜg1Ç$_9¾‰T¹Z«)·½¥©rÕ±?   @µœ=   Àê»¿R¼¿–­;AÚw7ƒ)»|);x3m±I¦–»A¦–»x3m1>m1]_9“™O¹©w·E\.²?   @l°È?   Àœœa?5œa?
+À;•àª7ê·À»ã·À;žÅl±/Ç»(Ç»žÅl1MÐl1Á_9ˆ©I¹[Îª·—³É¾6²?   @Íà&@   Ài(õ?6(õ?wÌá;AEÍ7¼™â»´™â;h±9Äè»2Äè»h1µh1s÷^9›PE¹¯,Í·ö‚Ô¸ïY²?   @}¦Q@   Àí%%@Ô%%@÷;÷Fä7^eø»Weø;á”a±›xþ»”xþ»á”a1ßža1¢ï^9‡hB¹.ä·)`Höj²?   @e`@   À^Ž3@DŽ3@›Ùþ;h>ì7ÙÅÿ»ÒÅÿ;‘Ö]±…è¼‚è¼‘Ö]1wá]1í^9gA¹R3ì·½¾à¸gw²?   @0g@   À‚h:@ih:@ò+<ð7ü£¼ø£<OåZ±¥§¼¢§¼OåZ1‡ïZ1ì^9:ë@¹ð·ü7(¼²?   @^‚j@   ÀÈå=@¯å=@¥<×	ò7©ˆ¼¦ˆ<ù`X±V‹¼S‹¼ù`X1ƒkX1˜ë^9¬@¹ò·"èXŒ²?   @?ûk@   À]?@ì\?@Ko<JÜò7¹è¼¶è<ÄÒU±ýê¼ùê¼ÄÒU1ŠÝU1•ë^9·‘@¹WØò·~Ï‚dø—²?   @–*k@   ÀE>@,>@W:<­eò7Š³¼†³<RáR±¶¼¶¼RáR1“ëR1ì^9¡@¹°`ò·šŸß\4§²?   @ÿe@   Àh9@îg9@“ê <ôï7Sb¼Ob<ì,O±Mf¼If¼ì,O18O1—í^97ÿ@¹yï·®«^ã¿²?   @
+iT@   À½å'@£å'@ïçø;žÇå7·Íù»°Íù;ñ‘I±…ßÿ»~ßÿ»ñ‘I1kœI1Øñ^9w:B¹á·å·ëõ‹ç²?   @'@   Àõ?Ð€õ?ãá;s[Í7i°â»c°â;²>B±òÚè»ìÚè»²>B1½IB1Éû^9ßQE¹
+7Í·å©6³?   @â»?   À¿!H?S!H?{Í¼;k€§7üt½»öt½;Sï<±ÕÅÃ»ÐÅÃ»Sï<1Žú<1–
+_9J¹L]§·F÷À_E³?   @t‘F>   ÀÔ÷¾íÔ÷¾E{“;F¾~7¤ú“»žú“;ƒ<±tš»tš»ƒ<1–Ž<1É_9^/O¹SŽ~·ìÁy‡}³?   @tå›¿   ÀÛ?ñ¿@ñ¿á~K;~3*7)L»)L;)þA±qY»uqY»)þA1
+B17)_9ƒ‡T¹@*·»ï60Ÿ³?   @,^ñ¿   À·ñ"ÀÓñ"ÀyO ;©Ï7HÓ »;Ó ;¶êG±ƒB.»vB.»¶êG1åõG1Ú/_9oôV¹¯Ã·Ö°…ç°³?   @ÈKÀ   À `2À`2Àÿ;¼eì61»$;DÇK±+ƒ»ƒ»DÇK1[ÓK1 2_9jÐW¹oZì¶¸‘çÔË½³?   @ÓÞÀ   ÀEÚ9ÀaÚ9ÀLî;Ú]ß6û]	»î]	;·ÏN±‡á»zá»·ÏN1øÚN1â2_9’9X¹ªTß¶‰õ™ÏÇ³?   @´zÀ   ÀÍi=Àéi=ÀùK;_2Ù6“¸»…¸;Ù>Q±9?»,?»Ù>Q1(JQ1/3_9>kX¹Ç)Ù¶ÓæÌK=Ô³?   @IcÀ   ÀºK?À×K?À`;!ôÕ6Ë»Ë;UPT±ZS»LS»UPT1Ý[T13_9&…X¹YéÕ¶Ÿ#KÔß³?   @©žÀ   ÀÎ‰>Àê‰>À&;OI×6©‘»œ‘;….W±<»/»….W1½9W1¥2_9	zX¹ò=×¶äá%ô,ï³?   @­EÀ   ÀêB9ÀC9À¹ˆ	;·~à6øø	»ëø	;4éZ±Ü{»Î{»4éZ1EõZ1O1_9/X¹ûlà¶·‘/	´?   @.†ú¿   À`w'À|w'Àè±;÷àÿ6Ù1»Ë1;Œ`±Ð¤)»Â¤)»Œ`1P—`1 -_9Y0W¹š¿ÿ¶Á.ˆ/´?   @Ÿ*¿   ÀÆ€ò¿ü€ò¿ÛJ;†Ã)7È„K»¹„K;ÊÏg±_ÍX»QÍX»ÊÏg1;Ûg1É$_9`ŠT¹½¡)·A¼aad´?   @½š=   Àvú¿àú¿œ¥;Ëw7‚!»z!;3m±Nž–»Gž–»3m1>m1`_9‰šO¹êšw·p"›´?   @žŠÈ?   ÀmQa?Qa?tÀ;ðÖª7K®À»C®À;Æl±™ûÆ»’ûÆ»Æl1-Ñl1Ä_9ÀªI¹ÓÄª·'
+ÜÆ´?   @6Ð&@   Àeõ?1õ?Äá;v<Í7H‘â»A‘â;Öh±Î»è»Ç»è»Öh1Œh1v÷^9·QE¹$Í·(;Fé´?   @® Q@   À$ %@ %@#~÷;ÊCä7hbø»abø;–a±§uþ»¡uþ»–a1 a1£ï^9íhB¹+ä·d5‡:Nú´?   @•`@   À‘‹3@x‹3@-Øþ;Ø<ì7jÄÿ»cÄÿ;Š×]±Îç¼Ëç¼Š×]1~â]1í^9=gA¹â1ì·ùÞmÀÀµ?   @Ýÿf@   À2g:@g:@œ+<`ð7¦£¼££<æZ±O§¼L§¼æZ1?ðZ1ì^9Që@¹ð·ËMlµ?   @Tj@   ÀÀä=@§ä=@a<C	ò7fˆ¼bˆ<îaX±‹¼‹¼îaX1xlX1˜ë^9 ¬@¹¡ò·3ËþPoµ?   @ûk@   ÀÊ\?@±\?@<o<)Üò7ªè¼¦è<ûÒU±íê¼êê¼ûÒU1ÈÝU1•ë^9¼‘@¹eØò·ãÃÅ:T'µ?   @œ*k@   ÀK>@2>@X:<°eò7‹³¼ˆ³<gáR±¶¼	¶¼gáR1ëR1ì^9¡@¹ì`ò·ÜYÿ6µ?   @Ïÿe@   ÀJh9@0h9@¤ê <€ï7db¼ab<-O±]f¼Zf¼-O148O1—í^92ÿ@¹zï·ê0ŒR>Oµ?   @ÑiT@   À‚æ'@iæ'@Tèø;Èå7Îù»Îù;’I±éßÿ»ãßÿ»’I1œI1Øñ^9i:B¹ž¸å·~ayvµ?   @'@   À†õ?Ð…õ?Täá;·\Í7±±â»«±â;Î>B±9Üè»2Üè»Î>B1ÛIB1Éû^9¶QE¹¶8Í·sñ¾‰¥µ?   @Ë¼?   Àö`H?‹`H?ŠÕ¼;rˆ§7}½»}½;ßï<±åÍÃ»ßÍÃ»ßï<1û<1“
+_9ÿJ¹‡e§·†ÉæM·Ôµ?   @Ì
+G>   ÀÕ—÷¾¯˜÷¾“;Å~7þ“»yþ“;å‚<±ñwš»ëwš»å‚<1jŽ<1Ç_9ç.O¹–~·TÚ¶?   @-Ë›¿   ÀÓ%ñ¿
+&ñ¿)ŒK;\?*7i6L»]6L;¤üA±É~Y»½~Y»¤üA1…B15)_9Ä†T¹¦ *·QyT †.¶?   @¾Qñ¿   À’ë"À®ë"À¾U ;Õ7“Ù »†Ù ;néG±ÈH.»¼H.»néG1ŽôG1Ù/_9ôV¹OÉ·€kG?@¶?   @¯HÀ   Àñ\2À]2À“;kì6S	»F	;BÆK±J†»>†»BÆK1dÒK1 2_9>ÐW¹`ì¶ ¹º$M¶?   @^ÝÀ   ÀÕØ9ÀñØ9ÀÄï;Y`ß6u_	»h_	;îÎN±ÿâ»òâ»îÎN1"ÚN1ã2_9}9X¹Wß¶ØÊ ³'W¶?   @±yÀ   ÀÎh=Àéh=ÀþL;4Ù6™¹»Œ¹;Ù=Q±?@»2@»Ù=Q1IQ1/3_90kX¹ö+Ù¶õz÷m”c¶?   @èbÀ   À\K?ÀwK?À|`;ÄôÕ6vË»iË;OT±»S»®S»OT1œZT13_9"…X¹ŠêÕ¶f?‡•.o¶?   @ÌžÀ   Àð‰>ÀŠ>Àá%;I×6†‘»x‘;.W±»».W1;9W1¥2_9zX¹H>×¶d…è†~¶?   @5GÀ   ÀnD9ÀŠD9À.‡	;|à6l÷	»^÷	;{èZ±Qz»Cz»{èZ1™ôZ1O1_9$/X¹kà¶Áæq`—¶?   @Mú¿   Àã{'Àþ{'ÀN­;òØÿ6:-»,-;‹`±6 )»( )»‹`1<–`1 -_9š0W¹o¸ÿ¶ V˜Ü¾¶?   @@¿   Àú•ò¿1–ò¿3ÐJ;Æ¹)7ìyK»ÞyK;¡Îg±ŽÂX»ÂX»¡Îg1Úg1Ë$_9þŠT¹d˜)·£`åŽ´ó¶?   @uÒ˜=   À^7¿Ç7¿Ø;P¼w7¶»®;¯2m±Š––»ƒ––»¯2m1¸=m1c_9x›O¹­Œw·Qéü4Ð*·?   @ËeÈ?   À3a?Ía?ú¿;ŒÍª7ë¤À»ä¤À;^Çl±CòÆ»<òÆ»^Çl1Òl1È_9ð«I¹‹»ª·™·Q‡_U·?   @À&@   À9çô?çô?Ø»á;å3Í7‰â»‰â;h±›³è»”³è»h1Uh1y÷^9ÍRE¹Í·5«ªrœx·?   @›Q@   À%@h%@D{÷;³@ä7…_ø»~_ø;K—a±Èrþ»Árþ»K—a1(¡a1¤ï^9RiB¹—(ä·üÄ¾H¦‰·?   @Ø`@   À×ˆ3@¾ˆ3@ÉÖþ;R;ì7Ãÿ»ýÂÿ;}Ø]±ç¼ç¼}Ø]1}ã]1í^9ogA¹~0ì·ê†ÙÜ–·?   @”þf@   Àêe:@Ñe:@H+<¨ð7R£¼N£<ÍæZ±ü¦¼ø¦¼ÍæZ1òðZ1ì^9hë@¹ìð·iXÊl ·?   @Q€j@   À½ã=@¤ã=@<±ò7$ˆ¼ ˆ<ÝbX±ÑŠ¼ÍŠ¼ÝbX1emX1˜ë^92¬@¹:ò·6o¡Êª·?   @Éúk@   À\?@w\?@-o<Üò7›è¼˜è<1ÓU±ßê¼Ûê¼1ÓU1ÞU1•ë^9À‘@¹tØò·â,0°¶·?   @¢*k@   ÀQ>@8>@Z:<´eò7³¼‰³<{áR±¶¼
+¶¼{áR1¦ëR1ì^9¡@¹)aò·MÙT¥ëÅ·?   @ f@   ÀŠh9@ph9@´ê <=€ï7tb¼qb<,-O±nf¼jf¼,-O1a8O1—í^9.ÿ@¹czï·÷(_¨™Þ·?   @“jT@   ÀCç'@*ç'@·èø;uÈå7Îù»xÎù;M’I±Làÿ»Eàÿ»M’I1µœI1×ñ^9\:B¹X¹å·dèÀ@Ô¸?   @v'@   ÀâŠõ?®Šõ?’åá;ò]Í7ð²â»ê²â;é>B±wÝè»pÝè»é>B1øIB1Èû^9QE¹Z:Í·öJÝ4¸?   @° ¼?   ÀfžH?ûH?`Ý¼;?§7ð„½»ê„½;hð<±ºÕÃ»´ÕÃ»hð<1¡û<1
+_9J¹†m§·Š¦êþd¸?   @„€G>   Àb]÷¾<^÷¾×‚“;¼Ì~7=”»7”;¹‚<±«{š»¥{š»¹‚<1@Ž<1Æ_9t.O¹~·r±¥Ü,œ¸?   @¥±›¿   À‡ñ¿¿ñ¿™K;äJ*7\CL»PCL;+ûA±±‹Y»¤‹Y»+ûA1B13)_9	†T¹¶,*·îœ(Ü½¸?   @¨Eñ¿   À˜å"À´å"ÀØ[ ;lÚ7²ß »¥ß ;/èG±áN.»ÕN.»/èG1@óG1Ø/_9ÂóV¹ÈÎ·:Ñÿ'—Ï¸?   @¬EÀ   ÀøY2ÀZ2À'–;Ipì6_»R;FÅK±S‰»G‰»FÅK1tÑK1ÿ1_9ÐW¹…eì¶Dò·}Ü¸?   @òÛÀ   Ào×9ÀŠ×9À2ñ;Çbß6ã`	»Ö`	;+ÎN±mä»`ä»+ÎN1RÙN1â2_9j9X¹eZß¶c-néæ¸?   @´xÀ   ÀÕg=Àðg=ÀýM;Ç5Ù6˜º»‹º;á<Q±=A»0A»á<Q1HQ1/3_9#kX¹.Ù¶'ä,´ëò¸?   @ŠbÀ   ÀÿJ?ÀK?ÀÛ`;cõÕ6ÖË»ÈË;àMT±T»T»àMT1cYT13_9…X¹·ëÕ¶NiQíˆþ¸?   @ížÀ   ÀŠ>À-Š>À¿%;×H×6d‘»V‘;›-W±÷»ê»›-W1¾8W1¥2_9zX¹ >×¶UuGß¹?   @³HÀ   ÀæE9ÀF9À®…	;€yà6êõ	»Ýõ	;ÇçZ±Ñx»Ãx»ÇçZ1óóZ1O1_99/X¹@ià¶wÕ×·&¹?   @*˜ú¿   ÀD€'À`€'ÀÕ¨;&Ñÿ6¾(»¯(;Š`±½›)»¯›)»Š`11•`1¡-_9Ù0W¹|±ÿ¶ho2S1N¹?   @ÐT¿   À•ªò¿Ìªò¿°ÅJ;L°)7`oK»QoK;€Íg±¸X»ü·X»€Íg1ùØg1Í$_9˜‹T¹Q)·ë)õûƒ¹?   @+n=   Àz¿‡z¿.;tÔu7Ž»Ž;UÜm±ã–»Û–»UÜm1þçm1¥_99ºO¹Â¨u·š™™™™™¹?   @Æ‡.?   À³yV8    ¢I£;hÜ7×£»x×£;!Õs±6Bª»/Bª»!Õs1»Ân1Š_9ÄWM¹ÅÜ·
