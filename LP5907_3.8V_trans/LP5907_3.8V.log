@@ -1,0 +1,22 @@
+Circuit: * Z:\home\jerryl\Git\Github_Public\Spice-Simulations\LP5907_3.8V_trans\LP5907_3.8V.asc
+
+WARNING: Less than two connections to node NC_01.  This node is used by R:U1:_R9.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Nov 12 10:08:57 2020
+Total elapsed time: 0.012 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 80
+traniter = 74
+tranpoints = 38
+accept = 38
+rejected = 0
+matrix size = 52
+fillins = 21
+solver = Normal
+Matrix Compiler1: 2.09 KB object code size
+Matrix Compiler2: 3.50 KB object code size
+
