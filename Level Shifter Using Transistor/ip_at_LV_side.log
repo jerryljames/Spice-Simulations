@@ -1,0 +1,24 @@
+Circuit: * Z:\home\jerryl\Git\Github_Public\Spice-Simulations\Level Shifter Using BSS138\ip_at_LV_side.asc
+
+Limiting rise time of source v6 to 0.1
+Limiting fall time of source v6 to 0.1
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Jun 24 18:26:19 2021
+Total elapsed time: 0.024 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 200
+traniter = 190
+tranpoints = 82
+accept = 73
+rejected = 9
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1: 228 bytes object code size  0.4/0.4/[0.3]
+Matrix Compiler2: off  [0.4]/0.4/0.4
+
+
